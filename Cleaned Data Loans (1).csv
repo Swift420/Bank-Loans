@@ -1,0 +1,1999 @@
+Age,Years at address,Employment status,Country,Current debt,Income,Own home,CCJs,Loan amount,Outcome
+19,2,Unemployed,UK,0,45500,Rent,1,13234,Paid
+66,13,Unemployed,UK,1080,18000,Own,0,5561,Paid
+48,4,Self Employed,UK,3690,47500,Rent,1,28288,Paid
+67,47,Self Employed,UK,6560,36000,Mortgage,0,30199,Paid
+70,8,Self Employed,UK,9100,50500,Own,0,35078,Paid
+77,5,Self Employed,UK,8850,14000,Mortgage,2,5513,Paid
+28,3,Unemployed,UK,2150,49000,Own,1,6159,Paid
+47,1,Unemployed,UK,2560,30500,Own,0,25813,Paid
+25,8,Self Employed,UK,6130,40000,Own,0,25885,Paid
+89,49,Employed,UK,1090,34500,Own,3,15398,Paid
+78,46,Employed,UK,9820,36500,Own,0,18974,Defaulted
+62,23,Self Employed,UK,980,22500,Own,0,20925,Paid
+68,25,Employed,UK,9460,14500,Own,2,2218,Defaulted
+73,28,Self Employed,UK,8550,52000,Rent,0,41973,Defaulted
+72,25,Employed,UK,7790,51500,Rent,3,42697,Defaulted
+20,1,Employed,UK,30,10500,Mortgage,1,4132,Paid
+43,18,Employed,UK,500,22500,Mortgage,3,21901,Defaulted
+83,37,Self Employed,UK,20,27500,Own,2,22036,Defaulted
+65,33,Self Employed,UK,3700,31000,Mortgage,0,19737,Paid
+82,32,Self Employed,UK,560,54000,Mortgage,1,31498,Paid
+38,15,Unemployed,UK,1410,24500,Own,1,8089,Paid
+44,4,Self Employed,UK,1940,12500,Mortgage,3,5589,Defaulted
+76,47,Self Employed,UK,4710,15000,Mortgage,0,318,Paid
+81,58,Employed,UK,2620,20000,Mortgage,1,14218,Defaulted
+19,2,Self Employed,UK,780,40000,Own,0,27177,Defaulted
+35,9,Self Employed,UK,1400,33000,Own,2,17267,Defaulted
+69,2,Self Employed,UK,10,42000,Own,0,7422,Paid
+30,1,Self Employed,UK,150,51500,Own,0,29792,Paid
+68,1,Self Employed,UK,3530,44500,Own,2,27439,Defaulted
+26,7,Unemployed,UK,4480,26500,Own,3,9548,Defaulted
+88,23,Self Employed,UK,4100,34500,Own,0,16079,Paid
+79,25,Self Employed,UK,150,52000,Mortgage,0,18079,Paid
+61,21,Self Employed,UK,660,50000,Rent,0,13624,Paid
+66,35,Unemployed,UK,1030,32000,Own,0,19593,Paid
+19,2,Self Employed,UK,1640,24000,Own,2,20772,Defaulted
+72,4,Self Employed,UK,1050,22500,Mortgage,0,4019,Paid
+67,27,Self Employed,UK,8520,53000,Mortgage,2,313,Defaulted
+45,2,Employed,UK,1290,39500,Mortgage,1,1976,Paid
+85,10,Self Employed,UK,3460,51000,Own,0,1584,Paid
+35,3,Self Employed,UK,2310,18000,Mortgage,3,9708,Defaulted
+85,23,Self Employed,UK,7160,28500,Own,0,13706,Paid
+26,2,Unemployed,UK,3490,53500,Own,0,47213,Paid
+56,37,Unemployed,UK,8380,53000,Own,2,47823,Paid
+21,3,Self Employed,UK,8260,42000,Own,3,26356,Paid
+85,62,Unemployed,UK,290,47500,Mortgage,0,10257,Paid
+62,43,Unemployed,UK,9790,12500,Own,3,3902,Defaulted
+73,30,Unemployed,UK,7240,23000,Rent,0,20771,Paid
+22,3,Self Employed,UK,3880,26500,Mortgage,0,17311,Paid
+85,2,Unemployed,UK,7340,46000,Own,0,28556,Paid
+79,27,Self Employed,UK,0,43000,Rent,2,23590,Defaulted
+81,15,Self Employed,UK,1800,17500,Own,0,2129,Paid
+27,1,Unemployed,UK,4970,33500,Mortgage,0,23788,Defaulted
+78,8,Unemployed,UK,1400,53500,Own,0,12001,Paid
+43,17,Unemployed,UK,4230,38000,Rent,3,14741,Paid
+65,9,Employed,UK,8580,47500,Own,2,20023,Paid
+75,57,Unemployed,UK,3370,42500,Own,0,28604,Paid
+34,2,Unemployed,UK,10,43500,Mortgage,1,36778,Paid
+65,46,Unemployed,France,7100,27500,Own,3,3238,Paid
+87,51,Employed,UK,30,40500,Own,2,34004,Paid
+38,7,Employed,UK,6390,10500,Mortgage,0,4966,Defaulted
+32,14,Unemployed,UK,7410,42500,Own,1,32133,Paid
+39,2,Self Employed,UK,5490,30000,Mortgage,1,13827,Defaulted
+58,32,Self Employed,UK,6220,42500,Mortgage,0,31126,Paid
+58,17,Employed,UK,60,45000,Rent,1,37036,Defaulted
+82,64,Self Employed,UK,3320,15000,Own,2,11419,Paid
+43,4,Self Employed,UK,2010,27500,Mortgage,3,17358,Defaulted
+62,1,Employed,UK,920,21500,Mortgage,0,18444,Defaulted
+67,33,Self Employed,UK,9330,47500,Own,1,5696,Paid
+39,16,Self Employed,UK,2480,28500,Mortgage,2,8813,Defaulted
+75,57,Self Employed,UK,2200,42500,Own,0,14812,Paid
+22,2,Self Employed,UK,3380,45000,Own,0,21107,Defaulted
+58,33,Self Employed,UK,9270,23000,Mortgage,1,4732,Paid
+69,46,Self Employed,UK,4370,52000,Own,0,19630,Paid
+27,9,Employed,UK,5510,35500,Own,3,1072,Defaulted
+77,5,Self Employed,UK,3450,44500,Own,3,19330,Defaulted
+18,1,Self Employed,UK,1220,37500,Mortgage,0,28323,Paid
+18,1,Self Employed,UK,7690,30000,Mortgage,0,11729,Defaulted
+43,14,Self Employed,UK,40,28500,Own,3,10003,Defaulted
+33,10,Self Employed,UK,50,47500,Own,0,24551,Paid
+67,32,Self Employed,UK,1640,34500,Mortgage,2,11344,Paid
+69,39,Employed,UK,80,51000,Mortgage,1,13592,Paid
+72,20,Employed,UK,1420,38500,Mortgage,0,1078,Paid
+29,10,Unemployed,UK,420,54500,Rent,0,36234,Defaulted
+78,1,Unemployed,UK,9030,45500,Own,2,20275,Defaulted
+44,17,Self Employed,UK,30,45500,Mortgage,1,15662,Paid
+17,1,Employed,UK,8940,47000,Mortgage,0,5315,Defaulted
+60,37,Unemployed,UK,290,38500,Own,0,26451,Paid
+59,15,Employed,UK,4010,29000,Own,0,22894,Paid
+40,9,Self Employed,UK,4450,10500,Own,0,2619,Paid
+52,14,Self Employed,UK,4850,31500,Rent,0,14754,Paid
+76,11,Employed,UK,9580,25000,Rent,1,21016,Defaulted
+44,21,Self Employed,UK,6160,21000,Rent,2,11405,Paid
+27,1,Self Employed,UK,6580,44000,Own,0,9681,Defaulted
+69,13,Employed,UK,7040,37000,Mortgage,1,22632,Paid
+52,14,Self Employed,UK,2330,24500,Own,0,18818,Paid
+53,9,Self Employed,UK,40,35500,Mortgage,0,27599,Paid
+68,35,Self Employed,UK,1110,32000,Own,0,22353,Paid
+38,1,Self Employed,UK,600,19000,Own,0,5404,Defaulted
+18,1,Self Employed,UK,1090,34500,Own,2,10288,Paid
+30,12,Self Employed,UK,1020,28000,Own,2,14713,Defaulted
+56,33,Self Employed,UK,160,38500,Own,0,34373,Defaulted
+58,30,Self Employed,UK,1890,36500,Own,1,33368,Paid
+37,3,Unemployed,UK,8690,44000,Own,1,14937,Paid
+85,14,Unemployed,UK,4770,50000,Own,2,32952,Defaulted
+42,5,Unemployed,UK,1560,43500,Rent,3,6579,Defaulted
+85,52,Employed,UK,9980,37000,Rent,0,9194,Paid
+54,26,Unemployed,UK,7140,54000,Own,0,50405,Defaulted
+57,14,Unemployed,UK,1020,20500,Mortgage,2,19796,Defaulted
+34,2,Self Employed,UK,8450,45500,Own,1,40907,Defaulted
+17,1,Unemployed,UK,7380,46500,Mortgage,2,1365,Defaulted
+42,13,Self Employed,UK,180,47500,Rent,2,24035,Defaulted
+22,1,Self Employed,UK,4290,52500,Mortgage,2,1145,Defaulted
+72,37,Self Employed,UK,2690,46500,Mortgage,3,28848,Defaulted
+19,1,Unemployed,UK,5610,32500,Rent,1,5150,Paid
+38,10,Employed,UK,7120,27000,Mortgage,1,9582,Defaulted
+27,3,Employed,UK,160,45500,Own,0,38361,Paid
+50,2,Unemployed,UK,2440,51500,Mortgage,3,47751,Defaulted
+88,34,Self Employed,UK,10,54500,Own,0,42197,Paid
+80,18,Self Employed,UK,4550,53000,Mortgage,1,49227,Paid
+57,34,Employed,UK,780,40000,Rent,1,20918,Paid
+41,15,Unemployed,UK,8800,54000,Own,0,37542,Defaulted
+62,28,Unemployed,UK,1400,39500,Own,1,10780,Paid
+43,4,Self Employed,UK,5240,22500,Own,1,16352,Paid
+62,18,Self Employed,UK,570,53000,Own,2,32777,Defaulted
+43,18,Employed,UK,5330,33500,Own,1,21544,Defaulted
+47,12,Self Employed,UK,0,28500,Own,1,1238,Paid
+56,12,Employed,UK,1390,43500,Rent,0,354,Paid
+65,19,Self Employed,UK,5560,28000,Rent,0,3727,Paid
+28,8,Self Employed,UK,0,42000,Mortgage,2,20240,Defaulted
+52,22,Unemployed,UK,3420,33500,Own,2,22286,Defaulted
+34,14,Self Employed,UK,7090,53000,Own,2,28251,Defaulted
+39,2,Unemployed,UK,1060,54000,Mortgage,1,9349,Paid
+50,20,Self Employed,UK,1630,46500,Own,0,28449,Paid
+32,1,Employed,UK,1250,36000,Rent,2,25021,Defaulted
+64,12,Self Employed,UK,8150,44000,Mortgage,1,7832,Defaulted
+54,34,Employed,UK,3660,25500,Mortgage,0,9713,Paid
+47,13,Unemployed,UK,6420,49500,Rent,0,21857,Defaulted
+26,8,Unemployed,UK,380,36000,Own,0,26269,Defaulted
+41,22,Employed,UK,130,31500,Mortgage,0,25260,Defaulted
+64,6,Unemployed,UK,5000,45000,Own,1,5928,Paid
+80,4,Unemployed,UK,50,52500,Rent,0,28034,Paid
+70,11,Self Employed,UK,990,44500,Rent,3,29350,Defaulted
+17,1,Self Employed,UK,5900,37500,Rent,3,35840,Defaulted
+17,1,Self Employed,UK,100,31500,Own,3,947,Defaulted
+50,8,Unemployed,UK,4380,54500,Own,1,12464,Paid
+42,16,Self Employed,UK,80,31000,Own,0,18932,Paid
+31,5,Self Employed,UK,4580,35500,Mortgage,0,13836,Defaulted
+24,4,Unemployed,UK,3910,17500,Mortgage,1,3530,Defaulted
+35,11,Employed,UK,520,43000,Own,1,42038,Paid
+73,16,Self Employed,Germany,2170,42500,Mortgage,0,604,Paid
+23,3,Self Employed,UK,3920,52000,Mortgage,3,38960,Defaulted
+77,59,Unemployed,UK,9180,46000,Own,1,13141,Defaulted
+84,2,Unemployed,UK,9780,49000,Own,2,33427,Paid
+42,23,Unemployed,UK,3610,27000,Own,0,24933,Defaulted
+86,28,Employed,UK,6580,21500,Own,0,865,Paid
+46,4,Self Employed,UK,60,25000,Rent,0,7972,Paid
+59,31,Self Employed,UK,3120,49000,Own,1,16309,Paid
+46,28,Employed,UK,100,18500,Mortgage,0,7019,Defaulted
+51,7,Unemployed,UK,7700,44500,Rent,3,1125,Defaulted
+83,4,Unemployed,UK,9770,23500,Own,0,14029,Defaulted
+57,9,Self Employed,UK,5540,54500,Rent,0,49354,Paid
+81,17,Self Employed,UK,4000,46000,Mortgage,3,28930,Defaulted
+48,21,Self Employed,UK,660,37500,Own,0,26407,Paid
+86,68,Unemployed,UK,1690,52000,Own,0,14310,Paid
+58,28,Unemployed,UK,10,50500,Mortgage,2,6988,Paid
+47,30,Employed,UK,9670,22500,Rent,2,13701,Defaulted
+88,54,Unemployed,UK,830,29500,Own,0,1287,Defaulted
+61,26,Self Employed,UK,0,38000,Own,0,4483,Paid
+84,57,Employed,UK,7300,34000,Own,1,22417,Paid
+82,31,Employed,UK,40,38500,Rent,0,6843,Paid
+77,47,Unemployed,UK,1990,37000,Mortgage,0,30181,Paid
+45,18,Unemployed,UK,40,38500,Mortgage,3,29383,Defaulted
+60,9,Self Employed,UK,3430,47500,Own,2,27030,Paid
+80,58,Self Employed,UK,8960,42500,Own,3,39559,Defaulted
+70,16,Self Employed,UK,2350,17000,Rent,1,50,Defaulted
+70,52,Unemployed,UK,3850,15000,Mortgage,0,6423,Paid
+65,30,Unemployed,UK,5750,39500,Own,0,26800,Paid
+79,1,Unemployed,UK,6630,50000,Own,1,16705,Defaulted
+48,27,Self Employed,UK,1330,44500,Own,1,27999,Defaulted
+52,12,Employed,UK,2140,25000,Rent,1,2142,Defaulted
+75,11,Self Employed,UK,2250,19000,Mortgage,2,2948,Paid
+69,17,Employed,UK,6870,47000,Mortgage,0,23896,Defaulted
+31,14,Self Employed,UK,1000,32000,Own,0,16978,Paid
+62,24,Self Employed,UK,4180,25000,Mortgage,0,12590,Paid
+77,55,Self Employed,UK,3000,44500,Mortgage,1,8915,Paid
+36,12,Unemployed,UK,2660,16000,Own,0,15388,Paid
+22,2,Unemployed,UK,3730,54500,Rent,3,18408,Defaulted
+64,23,Self Employed,UK,8010,50500,Own,1,4480,Defaulted
+70,23,Employed,UK,1880,54000,Rent,0,30275,Paid
+22,1,Self Employed,UK,3110,50500,Own,0,4397,Paid
+62,33,Self Employed,UK,5480,46500,Own,2,23670,Defaulted
+57,36,Unemployed,UK,1180,27500,Own,1,10824,Paid
+41,23,Self Employed,UK,510,39500,Mortgage,0,9313,Paid
+28,9,Unemployed,UK,0,45500,Mortgage,1,28298,Paid
+37,8,Self Employed,UK,5380,48500,Own,2,15354,Defaulted
+36,10,Self Employed,UK,2150,34500,Own,0,12971,Paid
+79,12,Employed,UK,8310,45500,Own,3,13235,Defaulted
+61,13,Employed,UK,5930,44000,Own,0,8485,Paid
+74,8,Unemployed,UK,5460,45500,Mortgage,1,8659,Paid
+68,29,Self Employed,UK,70,50500,Mortgage,0,6537,Paid
+25,7,Unemployed,UK,4080,47500,Own,1,94,Paid
+82,21,Self Employed,UK,3640,44000,Mortgage,0,19519,Paid
+24,6,Unemployed,UK,5830,47500,Mortgage,2,26615,Paid
+80,29,Unemployed,UK,220,38000,Mortgage,0,33129,Paid
+58,3,Self Employed,UK,5060,32000,Own,0,4145,Defaulted
+81,24,Self Employed,UK,4760,25500,Mortgage,1,11392,Defaulted
+38,11,Employed,UK,6040,29500,Own,0,13857,Paid
+51,32,Self Employed,UK,460,19500,Mortgage,1,14602,Paid
+82,13,Self Employed,UK,530,28500,Own,1,4029,Paid
+24,1,Self Employed,UK,4700,35500,Own,2,16771,Defaulted
+68,12,Unemployed,UK,160,26000,Own,0,9607,Paid
+77,14,Self Employed,UK,2790,36500,Own,0,19481,Defaulted
+30,1,Unemployed,UK,760,33000,Own,0,8529,Paid
+49,16,Self Employed,UK,6410,42500,Mortgage,0,6216,Paid
+51,24,Employed,UK,9540,51500,Own,1,33593,Defaulted
+76,35,Self Employed,UK,2490,47500,Mortgage,1,25381,Defaulted
+58,23,Self Employed,UK,2130,34000,Own,1,24789,Paid
+69,29,Self Employed,UK,1390,54500,Own,1,53022,Paid
+25,4,Self Employed,UK,360,47000,Mortgage,2,45965,Paid
+77,60,Self Employed,UK,8090,31500,Rent,0,29043,Defaulted
+89,71,Unemployed,UK,5000,29000,Mortgage,0,26393,Paid
+61,41,Self Employed,UK,750,16500,Mortgage,0,5304,Paid
+37,17,Unemployed,UK,6320,50500,Own,1,11260,Defaulted
+67,2,Self Employed,UK,6010,21000,Own,0,6197,Paid
+66,28,Self Employed,UK,3280,17000,Own,1,7275,Paid
+53,12,Unemployed,UK,1230,54500,Rent,0,10407,Defaulted
+62,20,Unemployed,UK,1250,23000,Own,2,3054,Defaulted
+79,2,Unemployed,UK,710,36500,Rent,0,14830,Paid
+17,1,Self Employed,UK,9780,53000,Rent,3,38905,Defaulted
+66,32,Employed,UK,140,14500,Own,0,732,Defaulted
+26,5,Unemployed,UK,7170,52500,Mortgage,0,27826,Paid
+56,36,Self Employed,UK,4040,53000,Mortgage,2,18810,Defaulted
+88,39,Employed,UK,930,28000,Own,1,6641,Paid
+55,17,Unemployed,UK,8180,32500,Rent,2,17713,Defaulted
+50,27,Self Employed,UK,1140,49000,Own,1,14918,Paid
+45,12,Self Employed,UK,1520,53000,Own,3,48799,Paid
+39,30,Self Employed,UK,9880,34000,Own,2,21621,Defaulted
+39,4,Self Employed,UK,9970,41000,Mortgage,3,29456,Defaulted
+73,4,Unemployed,UK,9300,50000,Rent,0,5521,Defaulted
+20,3,Self Employed,UK,60,48500,Own,3,22536,Defaulted
+41,14,Self Employed,UK,120,53500,Own,1,23835,Paid
+81,46,Unemployed,UK,2370,45000,Own,0,17252,Paid
+64,44,Unemployed,UK,380,35000,Own,2,10886,Paid
+24,5,Self Employed,UK,1760,39500,Mortgage,2,21861,Paid
+24,3,Unemployed,UK,8990,24000,Rent,0,481,Defaulted
+58,39,Unemployed,UK,950,39500,Mortgage,0,23151,Defaulted
+33,11,Employed,UK,560,9500,Mortgage,0,5880,Paid
+38,2,Self Employed,UK,3860,33000,Own,0,983,Paid
+18,1,Unemployed,UK,9800,45500,Own,0,40732,Defaulted
+28,10,Self Employed,UK,6090,14000,Own,0,4880,Paid
+30,13,Unemployed,UK,5170,37500,Mortgage,1,36389,Paid
+39,15,Self Employed,UK,3370,30000,Own,0,2124,Paid
+25,5,Unemployed,UK,160,50000,Own,1,38577,Paid
+40,5,Unemployed,UK,210,24000,Own,0,19064,Paid
+51,23,Unemployed,UK,5840,51000,Own,0,28359,Paid
+27,10,Unemployed,UK,7230,50000,Own,1,33061,Paid
+54,10,Self Employed,UK,2040,36500,Own,2,18000,Defaulted
+36,6,Self Employed,UK,120,21000,Mortgage,3,11230,Defaulted
+41,23,Self Employed,UK,1730,50500,Own,2,31588,Defaulted
+87,64,Employed,UK,4380,28000,Rent,3,4750,Defaulted
+45,13,Self Employed,UK,1590,24500,Mortgage,0,19610,Paid
+49,22,Self Employed,UK,110,25000,Own,2,18260,Defaulted
+57,38,Self Employed,UK,440,50500,Own,1,25985,Paid
+71,34,Unemployed,UK,1570,49500,Rent,2,48100,Defaulted
+39,8,Self Employed,UK,2580,31000,Rent,2,13474,Defaulted
+85,52,Unemployed,UK,2240,16000,Own,0,11301,Defaulted
+21,2,Self Employed,UK,7150,22000,Mortgage,0,2580,Paid
+60,1,Employed,UK,6530,40500,Mortgage,0,12663,Paid
+62,21,Employed,UK,400,23500,Own,0,20829,Paid
+17,1,Self Employed,UK,5330,52500,Mortgage,3,4282,Defaulted
+86,54,Employed,UK,2620,51000,Rent,0,46634,Paid
+37,1,Self Employed,UK,4600,28000,Own,2,16169,Defaulted
+55,1,Self Employed,UK,2060,53000,Mortgage,0,5764,Paid
+30,3,Unemployed,UK,7380,31500,Own,0,13840,Defaulted
+78,34,Self Employed,UK,5370,51000,Mortgage,0,26201,Paid
+31,8,Employed,UK,1600,53000,Own,3,32584,Defaulted
+89,3,Self Employed,UK,240,52000,Own,2,7660,Defaulted
+26,4,Self Employed,UK,290,52000,Own,0,48176,Paid
+31,8,Self Employed,UK,700,50500,Own,0,8112,Defaulted
+42,7,Unemployed,UK,3430,40500,Own,0,33896,Paid
+27,1,Unemployed,UK,6820,45500,Mortgage,0,364,Defaulted
+23,4,Unemployed,UK,5000,53500,Mortgage,0,1793,Paid
+34,11,Self Employed,UK,320,45500,Own,2,32444,Defaulted
+38,8,Self Employed,UK,6350,39000,Rent,0,8442,Paid
+18,1,Unemployed,UK,5180,28000,Rent,1,236,Paid
+82,31,Self Employed,UK,2620,31000,Rent,0,18841,Paid
+60,6,Unemployed,UK,1490,36000,Mortgage,0,2912,Defaulted
+65,10,Self Employed,UK,7840,48000,Own,0,35,Paid
+44,10,Unemployed,UK,110,17500,Own,0,5256,Paid
+80,12,Employed,UK,5110,46500,Mortgage,0,16516,Paid
+53,4,Self Employed,UK,6290,38500,Rent,3,11454,Defaulted
+25,8,Self Employed,UK,3960,30500,Own,2,3895,Paid
+64,24,Self Employed,UK,950,29000,Own,0,15844,Paid
+75,13,Self Employed,UK,3400,43000,Mortgage,2,8763,Defaulted
+68,51,Employed,UK,100,52500,Mortgage,0,26198,Defaulted
+45,24,Unemployed,UK,7500,48500,Rent,1,9990,Paid
+43,24,Self Employed,UK,0,24000,Own,0,7152,Paid
+21,2,Unemployed,UK,220,42500,Own,1,12888,Paid
+43,14,Unemployed,UK,1380,49000,Own,2,43222,Defaulted
+23,4,Employed,UK,210,49000,Own,2,10045,Paid
+68,30,Unemployed,UK,750,35500,Own,0,13094,Paid
+77,45,Employed,UK,570,49000,Mortgage,0,12656,Paid
+86,50,Self Employed,UK,2710,46000,Own,2,2729,Defaulted
+40,8,Unemployed,UK,8310,38000,Mortgage,1,6237,Defaulted
+47,17,Self Employed,UK,1830,41500,Rent,3,2419,Defaulted
+84,43,Self Employed,UK,4800,53000,Own,0,32495,Paid
+39,13,Unemployed,UK,9520,48000,Rent,2,18866,Defaulted
+33,10,Self Employed,UK,8680,51000,Mortgage,0,25970,Paid
+22,4,Self Employed,UK,4830,45500,Own,1,9610,Paid
+33,13,Self Employed,UK,3570,31500,Own,1,22562,Defaulted
+67,28,Self Employed,UK,10,54500,Own,0,28699,Defaulted
+45,1,Unemployed,UK,4420,49000,Own,0,35694,Paid
+77,34,Self Employed,UK,330,32500,Mortgage,0,23443,Defaulted
+81,36,Employed,UK,1400,49000,Mortgage,0,4639,Paid
+69,11,Self Employed,UK,0,52000,Mortgage,0,12758,Paid
+46,8,Self Employed,UK,9170,35000,Rent,0,12300,Paid
+48,7,Unemployed,UK,690,23500,Own,2,8184,Defaulted
+46,11,Self Employed,UK,400,42500,Rent,1,24909,Paid
+80,25,Self Employed,UK,7040,45500,Mortgage,1,31037,Paid
+71,2,Self Employed,UK,1400,44000,Mortgage,1,43029,Paid
+26,6,Self Employed,UK,7000,52000,Own,0,43816,Paid
+51,26,Self Employed,UK,3180,43000,Own,0,21276,Defaulted
+43,21,Self Employed,UK,5170,33000,Own,0,10696,Paid
+34,5,Unemployed,UK,3880,39500,Mortgage,1,28915,Paid
+29,2,Self Employed,UK,2110,53500,Mortgage,3,38479,Defaulted
+19,2,Unemployed,UK,3120,28500,Own,0,22479,Defaulted
+84,21,Unemployed,UK,9810,10000,Own,0,4793,Defaulted
+67,49,Employed,UK,1860,45000,Own,0,2148,Paid
+61,9,Self Employed,UK,6410,52000,Mortgage,2,37846,Defaulted
+68,16,Employed,UK,480,37000,Own,2,3000,Paid
+19,2,Unemployed,UK,7350,46500,Own,1,17791,Paid
+43,10,Self Employed,UK,1790,49500,Mortgage,0,39247,Paid
+46,26,Self Employed,UK,7920,42000,Own,0,23247,Paid
+47,5,Unemployed,UK,3560,27000,Own,0,8699,Paid
+27,8,Unemployed,UK,650,49500,Rent,1,34001,Defaulted
+88,20,Unemployed,UK,8940,46000,Mortgage,3,15045,Defaulted
+50,13,Self Employed,UK,4060,33000,Mortgage,3,12555,Defaulted
+73,38,Unemployed,UK,220,33500,Own,2,29870,Defaulted
+19,1,Self Employed,UK,2380,12500,Own,3,8817,Defaulted
+71,4,Self Employed,UK,280,42500,Own,0,7009,Paid
+89,7,Self Employed,UK,2030,33000,Mortgage,1,12213,Paid
+55,6,Self Employed,UK,3130,48000,Own,3,28652,Paid
+84,42,Employed,UK,1730,30500,Own,0,5410,Paid
+18,1,Self Employed,UK,370,17000,Own,0,2478,Paid
+24,2,Unemployed,UK,80,29500,Mortgage,1,18010,Paid
+83,66,Self Employed,UK,200,29500,Mortgage,1,23172,Paid
+51,10,Unemployed,UK,1720,32500,Own,3,13557,Defaulted
+80,6,Self Employed,UK,9940,45500,Mortgage,0,19196,Paid
+32,13,Self Employed,UK,2400,41500,Own,1,15147,Paid
+72,55,Employed,UK,3410,13000,Own,3,8360,Defaulted
+73,34,Self Employed,UK,2150,48000,Own,2,45516,Defaulted
+82,59,Self Employed,UK,6100,37500,Mortgage,2,33225,Defaulted
+77,2,Self Employed,UK,2240,49000,Mortgage,0,22937,Defaulted
+76,7,Self Employed,UK,0,47000,Own,1,22921,Defaulted
+52,17,Self Employed,UK,6080,35000,Rent,1,25171,Paid
+49,3,Self Employed,UK,1790,39000,Mortgage,2,25163,Defaulted
+84,45,Unemployed,UK,590,35500,Mortgage,3,15581,Paid
+19,1,Self Employed,UK,250,49000,Rent,1,39384,Paid
+50,18,Employed,UK,70,49500,Own,0,23379,Paid
+72,44,Unemployed,UK,0,47000,Own,0,44165,Paid
+68,39,Self Employed,UK,4940,16000,Mortgage,2,274,Defaulted
+84,7,Unemployed,UK,1230,46000,Own,3,19059,Defaulted
+54,33,Self Employed,UK,7970,13500,Own,0,11165,Paid
+56,33,Unemployed,UK,3900,36000,Mortgage,0,10904,Paid
+60,16,Unemployed,UK,2650,47000,Mortgage,0,13015,Paid
+77,37,Self Employed,UK,3940,54000,Rent,2,26108,Defaulted
+36,14,Self Employed,UK,0,43000,Own,0,22764,Paid
+85,60,Unemployed,UK,910,34500,Own,2,8313,Defaulted
+39,11,Unemployed,UK,8380,51500,Own,0,10400,Paid
+58,34,Self Employed,UK,890,48500,Own,1,21590,Paid
+54,10,Unemployed,UK,0,16500,Mortgage,0,9475,Paid
+66,18,Self Employed,UK,530,54000,Own,0,4865,Paid
+43,1,Self Employed,UK,5740,18500,Own,1,376,Paid
+28,1,Employed,UK,3820,16500,Mortgage,0,1416,Defaulted
+48,14,Unemployed,UK,6860,46500,Own,0,38420,Paid
+40,25,Unemployed,UK,920,30000,Mortgage,0,17212,Defaulted
+53,20,Self Employed,UK,10,46500,Mortgage,3,13175,Defaulted
+31,2,Unemployed,UK,1960,54000,Own,0,4512,Paid
+82,9,Self Employed,UK,7170,31000,Rent,1,9170,Defaulted
+56,35,Employed,UK,8190,27000,Own,0,23945,Defaulted
+48,2,Self Employed,UK,2500,50000,Rent,1,30985,Paid
+69,7,Self Employed,UK,60,39000,Own,0,29966,Paid
+56,38,Self Employed,UK,5810,43500,Own,0,37431,Paid
+78,17,Employed,UK,5270,36500,Own,0,25916,Paid
+22,4,Self Employed,UK,170,22500,Own,1,15416,Paid
+42,5,Unemployed,UK,4670,48000,Mortgage,3,6454,Defaulted
+85,31,Unemployed,UK,7980,49000,Own,2,41080,Paid
+81,53,Self Employed,UK,3510,19000,Own,1,7579,Paid
+22,4,Employed,UK,1340,36500,Own,2,9974,Paid
+61,24,Self Employed,UK,7350,35000,Mortgage,0,3129,Paid
+59,1,Self Employed,UK,5220,39000,Own,0,4701,Paid
+37,6,Unemployed,UK,3770,44000,Own,0,16946,Paid
+26,6,Employed,UK,2360,49500,Own,0,26230,Defaulted
+80,40,Unemployed,UK,8800,54000,Own,2,1142,Defaulted
+29,12,Unemployed,UK,2280,46500,Own,2,5760,Defaulted
+62,5,Self Employed,UK,5980,53500,Mortgage,3,645,Defaulted
+39,18,Self Employed,UK,2730,53000,Mortgage,0,35749,Paid
+58,20,Self Employed,UK,1270,24000,Rent,2,5164,Defaulted
+85,18,Unemployed,UK,2070,24000,Own,0,9708,Defaulted
+43,25,Self Employed,UK,2170,42500,Own,1,24779,Paid
+29,10,Unemployed,UK,1580,53500,Rent,0,24502,Paid
+42,17,Self Employed,UK,2410,51500,Own,0,34716,Paid
+79,56,Unemployed,UK,330,42500,Own,1,13856,Paid
+43,9,Self Employed,UK,9290,29500,Mortgage,0,5050,Defaulted
+66,6,Self Employed,UK,7840,16000,Own,0,11187,Paid
+48,5,Employed,UK,8060,43500,Mortgage,1,5283,Defaulted
+71,24,Unemployed,UK,3700,28500,Mortgage,1,18538,Defaulted
+25,8,Unemployed,UK,740,49500,Mortgage,0,39236,Defaulted
+64,5,Self Employed,UK,4700,12000,Own,0,9842,Paid
+66,8,Self Employed,UK,4760,10000,Mortgage,3,9257,Defaulted
+61,35,Self Employed,UK,7350,20000,Own,0,1714,Paid
+83,20,Unemployed,UK,8020,49500,Own,3,29880,Defaulted
+19,1,Self Employed,UK,3290,45000,Own,3,18437,Paid
+49,23,Employed,UK,3760,46500,Rent,0,44903,Paid
+66,10,Unemployed,UK,5810,51000,Own,0,6514,Defaulted
+28,1,Employed,UK,2360,50500,Mortgage,0,31819,Defaulted
+36,18,Self Employed,UK,4030,44500,Own,0,38561,Paid
+71,7,Employed,UK,1360,47500,Rent,3,14293,Defaulted
+65,1,Self Employed,UK,580,53500,Mortgage,0,7884,Paid
+31,9,Employed,UK,1930,41500,Mortgage,2,36367,Defaulted
+30,11,Self Employed,UK,5900,38500,Own,0,17567,Paid
+89,36,Unemployed,UK,2220,18500,Own,3,13110,Paid
+28,1,Self Employed,UK,2260,35500,Rent,3,22006,Defaulted
+45,10,Unemployed,UK,600,44000,Rent,0,4424,Paid
+67,15,Self Employed,UK,9150,32000,Mortgage,2,6175,Defaulted
+29,2,Self Employed,UK,1070,15000,Own,2,5860,Defaulted
+48,2,Self Employed,UK,1840,30000,Mortgage,3,3024,Defaulted
+60,31,Retired,UK,7150,53500,Own,0,22864,Defaulted
+56,32,Self Employed,UK,0,52500,Own,3,35471,Defaulted
+55,31,Unemployed,UK,1480,43500,Mortgage,0,30669,Defaulted
+84,51,Self Employed,UK,400,19500,Mortgage,2,13763,Defaulted
+48,2,Self Employed,UK,5010,50500,Own,2,35083,Defaulted
+20,2,Self Employed,UK,4340,54000,Own,1,34963,Paid
+51,9,Self Employed,UK,4410,48000,Own,0,19924,Paid
+72,36,Unemployed,UK,1710,46500,Own,0,37505,Defaulted
+46,20,Employed,UK,5930,13500,Mortgage,0,5960,Paid
+74,55,Unemployed,UK,9860,36000,Own,2,12609,Defaulted
+41,5,Self Employed,UK,460,49500,Mortgage,2,4489,Defaulted
+38,1,Unemployed,UK,1100,17000,Own,1,8275,Paid
+79,62,Self Employed,UK,8360,15500,Mortgage,3,6315,Defaulted
+89,19,Self Employed,UK,450,40000,Mortgage,1,22093,Defaulted
+45,14,Self Employed,UK,3890,28000,Mortgage,0,21474,Paid
+60,35,Unemployed,UK,8240,19500,Own,0,9654,Defaulted
+73,35,Self Employed,UK,1020,24000,Own,2,21290,Defaulted
+64,35,Unemployed,UK,8370,46000,Mortgage,1,34096,Defaulted
+58,33,Employed,UK,6660,53500,Own,3,5759,Paid
+30,10,Unemployed,UK,6110,44500,Own,0,13273,Paid
+82,48,Self Employed,UK,1040,50500,Mortgage,0,32204,Paid
+20,3,Unemployed,UK,6620,53000,Mortgage,0,115,Defaulted
+49,1,Self Employed,UK,830,30500,Rent,1,4751,Paid
+23,5,Unemployed,UK,6310,17500,Own,1,9210,Paid
+29,2,Self Employed,UK,110,41000,Own,0,19800,Paid
+24,5,Self Employed,UK,8190,16500,Own,2,8079,Defaulted
+72,32,Unemployed,UK,0,52500,Rent,3,33236,Paid
+27,6,Self Employed,UK,7160,48000,Mortgage,2,18536,Paid
+61,18,Self Employed,UK,7390,20000,Own,1,6693,Paid
+38,21,Unemployed,UK,4520,15500,Mortgage,2,13930,Defaulted
+24,6,Self Employed,UK,690,53500,Mortgage,3,10278,Defaulted
+62,31,Self Employed,UK,2810,36000,Mortgage,0,26791,Defaulted
+29,7,Self Employed,UK,3990,21000,Rent,3,1774,Defaulted
+49,4,Self Employed,UK,4340,50000,Own,1,26570,Defaulted
+83,38,Unemployed,UK,1030,40500,Mortgage,2,18515,Defaulted
+62,10,Employed,UK,1460,21500,Own,0,15331,Paid
+17,1,Self Employed,UK,0,34500,Own,0,25799,Paid
+48,11,Self Employed,UK,9240,50000,Mortgage,0,55,Paid
+29,4,Self Employed,UK,1600,13000,Own,0,769,Paid
+28,5,Self Employed,UK,500,52000,Mortgage,0,26772,Paid
+46,27,Self Employed,UK,1960,42500,Mortgage,3,4396,Defaulted
+41,7,Unemployed,UK,3590,51500,Mortgage,0,9380,Paid
+33,9,Unemployed,UK,5790,54500,Mortgage,3,21848,Defaulted
+79,32,Employed,UK,0,49000,Own,0,16350,Paid
+24,5,Employed,UK,7060,42500,Mortgage,1,1048,Paid
+32,14,Self Employed,UK,8500,49500,Own,3,47992,Paid
+82,51,Self Employed,UK,580,46500,Rent,3,2971,Defaulted
+52,22,Self Employed,UK,5100,42000,Own,0,40788,Paid
+59,37,Unemployed,UK,3400,20500,Own,2,9202,Defaulted
+67,44,Unemployed,UK,1000,34500,Mortgage,0,20360,Paid
+23,6,Self Employed,UK,650,22500,Mortgage,1,12614,Paid
+70,45,Employed,UK,240,29500,Own,1,9026,Paid
+47,27,Unemployed,UK,710,52000,Own,1,16151,Defaulted
+35,14,Self Employed,UK,210,35500,Mortgage,3,23070,Defaulted
+66,1,Self Employed,UK,1930,54500,Own,2,45667,Defaulted
+19,1,Employed,UK,6650,53000,Rent,1,52661,Defaulted
+61,34,Self Employed,UK,8540,46500,Rent,1,17232,Paid
+55,13,Unemployed,UK,510,47000,Rent,0,1103,Paid
+78,9,Unemployed,UK,4710,46500,Own,0,22845,Paid
+48,24,Self Employed,UK,9050,35000,Own,0,25761,Defaulted
+86,8,Unemployed,UK,710,31000,Mortgage,0,23980,Paid
+22,2,Self Employed,UK,160,16500,Own,0,2434,Paid
+55,32,Self Employed,UK,4530,51500,Own,0,41804,Paid
+82,29,Self Employed,UK,8480,50500,Rent,0,17915,Defaulted
+72,37,Employed,UK,100,47500,Own,0,45561,Paid
+45,2,Unemployed,UK,450,28000,Rent,3,21750,Defaulted
+22,2,Self Employed,UK,5780,42500,Mortgage,1,4649,Paid
+88,38,Self Employed,UK,80,16500,Own,0,9770,Paid
+23,1,Unemployed,UK,2810,46500,Mortgage,2,35765,Defaulted
+72,10,Unemployed,UK,1440,31000,Own,0,23241,Paid
+25,7,Unemployed,UK,10,53000,Own,0,15015,Paid
+29,10,Employed,UK,1120,35000,Mortgage,0,19555,Paid
+43,21,Unemployed,UK,130,36500,Own,3,4904,Paid
+68,43,Self Employed,UK,5610,34500,Own,1,23369,Defaulted
+35,6,Employed,UK,7530,25000,Mortgage,1,3760,Paid
+68,13,Self Employed,UK,1120,38000,Rent,0,11277,Paid
+41,15,Employed,UK,0,45000,Own,0,4537,Defaulted
+44,15,Unemployed,UK,4070,29000,Own,1,22985,Paid
+50,10,Self Employed,UK,130,16500,Mortgage,1,11179,Paid
+33,4,Self Employed,UK,9980,46000,Own,0,19991,Defaulted
+54,33,Unemployed,UK,2640,35500,Mortgage,1,23907,Paid
+41,16,Self Employed,UK,8720,52000,Own,2,30255,Defaulted
+79,34,Self Employed,UK,1590,44500,Own,0,33089,Paid
+79,10,Unemployed,UK,1040,39500,Own,2,25703,Defaulted
+25,4,Self Employed,UK,2310,46000,Mortgage,1,24916,Paid
+84,58,Self Employed,UK,850,31000,Own,1,2218,Paid
+61,44,Self Employed,UK,10,47500,Own,1,1729,Paid
+87,58,Self Employed,UK,4850,47000,Mortgage,0,43779,Paid
+31,5,Self Employed,UK,970,43500,Rent,2,29795,Defaulted
+34,12,Employed,UK,540,38000,Own,1,3577,Paid
+63,45,Employed,UK,1490,48500,Mortgage,0,21215,Paid
+38,20,Self Employed,UK,5610,48500,Mortgage,2,47300,Defaulted
+34,3,Unemployed,UK,2490,30000,Own,0,13667,Paid
+58,18,Employed,UK,2270,49500,Mortgage,1,24549,Paid
+80,46,Self Employed,UK,4400,36500,Own,2,2294,Defaulted
+80,53,Unemployed,UK,3410,37500,Own,1,4050,Paid
+28,7,Unemployed,UK,110,50000,Own,0,45385,Paid
+65,32,Self Employed,UK,1090,53000,Own,0,43416,Paid
+43,7,Unemployed,UK,330,21500,Own,2,12059,Defaulted
+43,12,Employed,UK,4410,23500,Own,2,14934,Defaulted
+24,1,Unemployed,UK,10,52500,Mortgage,1,2147,Paid
+39,19,Self Employed,UK,7060,28000,Mortgage,0,5889,Paid
+76,46,Employed,UK,5700,40000,Own,0,15748,Paid
+44,24,Self Employed,UK,1770,51500,Own,2,48690,Defaulted
+84,48,Self Employed,UK,1160,36500,Own,3,24883,Defaulted
+29,3,Self Employed,UK,300,17000,Own,1,12198,Paid
+57,31,Self Employed,UK,8490,44000,Own,2,41805,Defaulted
+38,1,Unemployed,UK,6340,45500,Own,2,14626,Defaulted
+19,1,Self Employed,UK,80,26500,Rent,3,13298,Defaulted
+31,13,Self Employed,UK,3490,32500,Mortgage,2,16794,Defaulted
+89,38,Self Employed,UK,40,44500,Mortgage,3,2081,Defaulted
+25,4,Unemployed,UK,8980,51500,Own,2,13533,Paid
+35,7,Unemployed,UK,2760,39500,Mortgage,1,12733,Defaulted
+44,3,Self Employed,UK,4200,40000,Rent,0,7676,Paid
+51,1,Unemployed,UK,0,30500,Own,3,20144,Paid
+82,32,Unemployed,UK,6200,46500,Rent,3,2704,Defaulted
+84,14,Self Employed,UK,1040,47000,Own,2,29753,Paid
+60,25,Self Employed,UK,6230,31500,Own,1,25022,Paid
+44,7,Self Employed,UK,5560,21500,Mortgage,0,21396,Paid
+78,16,Self Employed,UK,290,52000,Own,2,7987,Defaulted
+42,4,Self Employed,UK,1900,48500,Own,2,2929,Defaulted
+73,24,Unemployed,UK,40,36000,Own,1,29428,Paid
+62,29,Self Employed,UK,3460,47000,Mortgage,0,31418,Paid
+77,53,Unemployed,UK,2520,51000,Mortgage,0,32382,Defaulted
+53,18,Self Employed,UK,1420,48000,Own,0,22975,Paid
+34,10,Unemployed,UK,890,37000,Own,0,20762,Paid
+76,34,Employed,UK,4700,49000,Mortgage,0,25572,Paid
+18,1,Unemployed,UK,4740,51000,Mortgage,0,43265,Defaulted
+50,21,Self Employed,UK,240,42000,Own,0,2960,Defaulted
+68,3,Self Employed,UK,8350,47000,Rent,1,30228,Paid
+58,31,Self Employed,UK,9690,39000,Own,0,1717,Defaulted
+75,55,Unemployed,UK,3230,43500,Own,0,38107,Paid
+76,3,Self Employed,UK,1440,21500,Own,0,5087,Paid
+47,21,Self Employed,UK,7760,36500,Mortgage,1,16498,Paid
+21,4,Employed,UK,630,43500,Mortgage,1,4836,Paid
+44,23,Self Employed,UK,2050,21000,Own,0,3608,Paid
+64,11,Unemployed,UK,9830,40000,Own,2,18502,Defaulted
+44,5,Self Employed,UK,9420,20000,Own,1,707,Defaulted
+80,41,Employed,UK,0,35000,Mortgage,2,17098,Paid
+70,4,Employed,UK,10,27500,Own,0,5101,Paid
+57,37,Self Employed,UK,60,50000,Own,0,38141,Paid
+76,50,Self Employed,UK,810,42000,Own,2,18146,Defaulted
+46,2,Self Employed,UK,2300,29500,Mortgage,1,8007,Defaulted
+54,9,Unemployed,UK,2420,41000,Mortgage,0,10891,Paid
+71,21,Self Employed,UK,9540,51500,Mortgage,2,8960,Defaulted
+75,45,Self Employed,UK,1150,11000,Own,0,4863,Paid
+22,2,Unemployed,UK,0,49500,Own,0,39437,Paid
+36,17,Self Employed,UK,640,30000,Mortgage,0,9415,Paid
+43,26,Unemployed,UK,0,45500,Own,3,32940,Defaulted
+59,41,Self Employed,France,890,22500,Mortgage,2,22152,Defaulted
+23,6,Self Employed,UK,240,19500,Rent,1,16216,Defaulted
+23,4,Unemployed,UK,3690,38500,Mortgage,1,15679,Paid
+78,44,Unemployed,UK,3930,42000,Rent,2,28564,Defaulted
+45,20,Unemployed,UK,3000,53500,Rent,0,51021,Paid
+35,9,Self Employed,UK,1010,53500,Own,0,14926,Paid
+86,59,Unemployed,UK,0,35500,Own,0,25369,Paid
+77,30,Self Employed,UK,0,32500,Mortgage,1,26683,Paid
+21,4,Self Employed,UK,4890,38500,Mortgage,1,19318,Paid
+56,26,Employed,UK,3670,52000,Mortgage,1,39225,Paid
+68,37,Unemployed,UK,0,54000,Own,1,21218,Paid
+56,12,Unemployed,UK,3210,28000,Own,3,20686,Defaulted
+67,9,Unemployed,UK,8070,50500,Own,1,33533,Defaulted
+39,7,Self Employed,UK,870,49500,Own,0,19545,Paid
+17,1,Employed,UK,8430,22000,Own,1,18005,Defaulted
+87,61,Employed,UK,7430,26000,Own,0,3513,Paid
+74,29,Unemployed,UK,3410,41000,Own,0,11284,Paid
+52,7,Employed,UK,610,39500,Own,1,22237,Paid
+86,24,Self Employed,UK,8050,49000,Own,1,5917,Paid
+55,31,Unemployed,UK,8140,30000,Own,0,18584,Defaulted
+89,43,Self Employed,UK,8260,38000,Own,0,7582,Defaulted
+71,46,Self Employed,UK,120,43500,Mortgage,0,9506,Paid
+72,29,Employed,UK,6430,54000,Mortgage,3,39161,Defaulted
+21,3,Unemployed,UK,1670,19000,Mortgage,0,12497,Defaulted
+39,11,Self Employed,UK,2870,32500,Own,0,2267,Defaulted
+44,6,Unemployed,UK,0,44500,Own,2,33481,Paid
+24,5,Employed,UK,1910,37500,Rent,1,24000,Paid
+25,3,Self Employed,UK,4240,54000,Rent,2,40215,Defaulted
+40,23,Self Employed,UK,1610,36500,Mortgage,0,13744,Paid
+33,1,Unemployed,UK,4330,36500,Own,0,21503,Paid
+51,15,Self Employed,UK,300,54500,Rent,0,47985,Paid
+30,10,Employed,UK,3910,44000,Mortgage,0,21333,Paid
+23,1,Unemployed,UK,360,49500,Mortgage,1,6018,Paid
+41,7,Self Employed,UK,140,22500,Rent,0,2432,Defaulted
+47,26,Unemployed,UK,1820,16500,Own,2,14895,Defaulted
+63,14,Self Employed,UK,2280,23500,Mortgage,1,5309,Defaulted
+65,1,Self Employed,UK,7560,13500,Own,1,9556,Paid
+55,30,Self Employed,UK,2290,20500,Own,1,110,Paid
+20,1,Self Employed,UK,1590,47000,Mortgage,0,8877,Defaulted
+41,17,Unemployed,UK,8550,52000,Mortgage,1,32625,Defaulted
+72,51,Unemployed,UK,6040,20500,Own,0,2107,Paid
+34,7,Self Employed,UK,250,53500,Own,0,3652,Paid
+29,2,Self Employed,UK,160,38500,Mortgage,3,20236,Defaulted
+88,6,Self Employed,UK,90,10500,Own,2,6275,Defaulted
+21,1,Self Employed,UK,4280,37000,Own,0,31665,Paid
+57,1,Self Employed,UK,990,46500,Rent,0,693,Paid
+34,8,Employed,UK,2200,35000,Rent,0,15151,Paid
+48,29,Employed,UK,4160,34500,Rent,1,30408,Defaulted
+63,1,Self Employed,UK,0,43500,Rent,0,13941,Paid
+51,4,Self Employed,UK,270,29500,Mortgage,1,18709,Paid
+67,8,Self Employed,UK,9960,50500,Rent,2,3187,Defaulted
+25,2,Self Employed,UK,3300,20500,Own,0,9288,Defaulted
+61,38,Employed,UK,1770,40000,Own,0,14616,Paid
+45,3,Unemployed,UK,5200,51500,Mortgage,1,15947,Paid
+78,1,Self Employed,UK,8980,29500,Mortgage,0,23517,Defaulted
+65,23,Self Employed,UK,3850,44000,Mortgage,0,2393,Paid
+80,8,Unemployed,UK,760,53500,Own,0,14486,Paid
+50,29,Self Employed,UK,1000,31000,Mortgage,1,19521,Defaulted
+31,10,Unemployed,UK,530,50500,Own,0,39093,Defaulted
+47,28,Self Employed,UK,9940,17500,Own,0,4455,Paid
+26,1,Unemployed,UK,5890,45500,Mortgage,2,17085,Paid
+88,58,Self Employed,UK,3980,54500,Own,3,24770,Defaulted
+30,3,Employed,UK,10,47000,Rent,0,38944,Paid
+71,31,Self Employed,UK,6350,18000,Rent,1,10024,Paid
+39,19,Self Employed,UK,1770,54000,Mortgage,2,30523,Defaulted
+27,3,Self Employed,UK,3750,45500,Mortgage,0,25872,Defaulted
+64,33,Unemployed,UK,9680,30500,Own,0,1575,Defaulted
+43,2,Self Employed,UK,9450,38000,Own,0,18411,Defaulted
+19,1,Self Employed,UK,1870,16500,Mortgage,1,292,Paid
+70,12,Unemployed,UK,1130,20000,Mortgage,0,4280,Defaulted
+17,1,Unemployed,UK,510,40500,Mortgage,0,18255,Defaulted
+29,8,Employed,UK,340,27500,Mortgage,0,15941,Paid
+39,13,Unemployed,UK,20,51000,Own,0,37259,Paid
+64,5,Unemployed,UK,1840,45000,Rent,1,39364,Paid
+79,56,Unemployed,UK,260,24000,Own,2,10370,Defaulted
+40,9,Self Employed,UK,3960,34500,Own,0,22873,Defaulted
+53,23,Employed,UK,1560,43500,Mortgage,0,43363,Paid
+20,3,Employed,UK,960,12500,Mortgage,1,12265,Paid
+42,13,Self Employed,UK,560,43000,Mortgage,0,28713,Paid
+51,13,Self Employed,UK,530,18000,Mortgage,0,16322,Paid
+30,5,Unemployed,UK,3650,30500,Mortgage,1,27337,Paid
+42,3,Self Employed,UK,2510,26000,Mortgage,1,15531,Defaulted
+74,36,Unemployed,UK,9220,26000,Own,1,10398,Defaulted
+35,4,Unemployed,UK,30,22000,Own,0,1557,Paid
+41,12,Employed,UK,3320,23500,Own,0,18171,Paid
+48,22,Unemployed,UK,2510,51000,Rent,1,19393,Paid
+58,16,Unemployed,UK,960,34500,Own,0,26300,Paid
+39,13,Employed,UK,2260,26500,Own,3,8118,Defaulted
+40,6,Employed,UK,0,50000,Rent,0,4213,Paid
+83,46,Employed,UK,3130,32000,Own,0,4090,Paid
+81,2,Self Employed,UK,7960,52000,Mortgage,0,36688,Paid
+39,6,Self Employed,UK,1980,41000,Mortgage,3,38652,Paid
+35,6,Unemployed,UK,7320,39500,Own,3,8221,Defaulted
+37,4,Employed,UK,7500,50500,Own,0,45627,Defaulted
+30,8,Self Employed,UK,3180,31500,Own,3,45,Defaulted
+64,41,Self Employed,UK,9350,33500,Rent,1,4851,Defaulted
+56,8,Unemployed,UK,80,24000,Own,0,19485,Paid
+72,26,Self Employed,UK,1610,37000,Rent,0,18966,Paid
+40,3,Employed,UK,30,41000,Own,0,29589,Paid
+38,20,Employed,UK,510,48000,Own,0,28944,Paid
+70,10,Self Employed,UK,5350,21000,Own,1,20934,Paid
+80,26,Self Employed,UK,5850,28500,Mortgage,1,24086,Defaulted
+62,15,Employed,UK,5550,43500,Mortgage,0,10708,Paid
+82,51,Employed,UK,6680,46500,Own,1,805,Defaulted
+23,5,Self Employed,UK,1270,37000,Mortgage,0,4676,Defaulted
+31,12,Self Employed,UK,2260,46000,Own,0,7962,Paid
+30,1,Employed,UK,370,42000,Mortgage,0,36368,Defaulted
+56,24,Unemployed,UK,4830,50000,Mortgage,0,49435,Defaulted
+31,12,Unemployed,UK,3870,44500,Mortgage,0,14216,Paid
+53,29,Employed,UK,2900,27500,Rent,2,20017,Paid
+54,5,Employed,UK,3380,35500,Own,0,10101,Paid
+32,9,Unemployed,UK,2250,23000,Rent,0,20427,Defaulted
+64,8,Self Employed,UK,5750,52500,Own,0,6839,Paid
+87,16,Employed,UK,8920,28000,Mortgage,0,7299,Paid
+70,43,Employed,UK,770,48000,Mortgage,1,32698,Paid
+23,3,Self Employed,UK,1650,21000,Own,0,7316,Paid
+17,1,Self Employed,UK,4570,29000,Mortgage,0,9488,Defaulted
+20,3,Self Employed,UK,2900,26000,Own,2,22320,Paid
+71,22,Self Employed,UK,2920,36000,Mortgage,3,31348,Defaulted
+37,14,Employed,UK,1140,54500,Mortgage,3,24244,Defaulted
+53,17,Unemployed,UK,5460,45500,Own,0,29290,Defaulted
+66,35,Self Employed,UK,7170,25500,Mortgage,0,19229,Paid
+52,3,Self Employed,UK,4420,38000,Mortgage,0,29803,Defaulted
+23,1,Unemployed,UK,4420,41500,Own,0,2458,Defaulted
+64,32,Employed,UK,1490,12500,Rent,2,3770,Paid
+51,20,Unemployed,UK,590,54500,Mortgage,3,8826,Defaulted
+65,35,Unemployed,UK,310,42000,Own,0,34024,Defaulted
+52,6,Self Employed,UK,9870,21000,Own,1,7001,Defaulted
+79,11,Unemployed,UK,4460,41500,Rent,0,17924,Defaulted
+72,36,Unemployed,UK,3890,51000,Own,0,36153,Paid
+50,1,Unemployed,UK,0,44500,Rent,3,20419,Defaulted
+86,4,Self Employed,UK,1040,47000,Mortgage,1,9171,Defaulted
+55,27,Self Employed,UK,7060,17000,Rent,2,12388,Defaulted
+56,38,Employed,UK,220,34000,Mortgage,3,20442,Defaulted
+38,16,Unemployed,UK,3160,47000,Own,2,29629,Defaulted
+18,1,Self Employed,UK,9850,49000,Own,0,39061,Defaulted
+86,39,Employed,UK,7140,42500,Own,1,16810,Paid
+47,11,Unemployed,UK,5360,24500,Own,0,6340,Paid
+34,13,Self Employed,UK,8190,19000,Mortgage,3,7031,Defaulted
+89,57,Self Employed,UK,1470,37000,Own,0,25124,Paid
+79,19,Employed,UK,5890,54000,Own,1,11541,Paid
+57,33,Self Employed,UK,20,24500,Own,1,5298,Paid
+65,3,Self Employed,UK,4990,52000,Own,3,24431,Defaulted
+60,20,Unemployed,UK,7750,21500,Own,0,10791,Paid
+75,36,Self Employed,UK,120,24000,Own,2,13995,Defaulted
+30,6,Unemployed,UK,1180,51500,Mortgage,0,9659,Defaulted
+72,14,Employed,UK,1430,42500,Own,0,34198,Defaulted
+21,1,Employed,UK,8650,11000,Own,0,9960,Defaulted
+64,23,Unemployed,UK,250,41500,Mortgage,1,8374,Defaulted
+75,3,Employed,UK,0,36000,Rent,3,31383,Defaulted
+51,1,Employed,UK,660,24500,Own,1,7250,Paid
+62,36,Unemployed,UK,7080,34000,Own,1,20473,Paid
+85,63,Self Employed,UK,1650,46000,Rent,0,1238,Paid
+77,39,Self Employed,UK,250,45000,Mortgage,0,17268,Paid
+56,36,Unemployed,UK,310,33500,Mortgage,1,19778,Paid
+79,41,Unemployed,UK,7670,53000,Own,0,33742,Paid
+26,7,Self Employed,UK,0,51500,Own,3,36713,Defaulted
+87,25,Unemployed,UK,3320,26500,Own,1,7829,Paid
+66,2,Self Employed,UK,2660,47000,Mortgage,0,8679,Defaulted
+26,2,Self Employed,UK,220,45000,Rent,0,43697,Paid
+72,13,Unemployed,UK,5630,44000,Own,0,2803,Defaulted
+72,30,Unemployed,UK,5400,30000,Rent,0,25809,Defaulted
+43,15,Employed,UK,5510,36500,Mortgage,0,5745,Paid
+73,46,Employed,UK,2600,52000,Own,2,38697,Paid
+82,55,Self Employed,UK,8790,49500,Rent,1,24016,Defaulted
+58,21,Unemployed,UK,30,48500,Mortgage,0,1673,Paid
+69,51,Employed,UK,5840,27000,Rent,0,23114,Paid
+41,19,Retired,UK,4950,47500,Rent,1,37825,Paid
+35,15,Unemployed,UK,1220,48000,Rent,1,10563,Paid
+38,19,Unemployed,UK,4310,10000,Own,1,3577,Defaulted
+68,27,Unemployed,UK,7670,36000,Own,3,21073,Defaulted
+88,37,Unemployed,UK,360,33500,Own,1,21526,Paid
+32,15,Unemployed,UK,300,40500,Rent,0,15689,Paid
+89,57,Self Employed,UK,8490,46000,Rent,0,29615,Defaulted
+59,31,Employed,UK,4470,26500,Mortgage,1,5966,Defaulted
+69,44,Self Employed,UK,8300,38500,Own,1,978,Paid
+49,31,Self Employed,UK,360,30000,Mortgage,0,16826,Paid
+84,5,Employed,UK,4960,52000,Mortgage,1,42590,Paid
+75,49,Unemployed,UK,10,37500,Mortgage,2,20467,Defaulted
+88,20,Unemployed,UK,3520,21000,Mortgage,2,17222,Paid
+23,6,Self Employed,UK,8050,50000,Mortgage,1,24109,Defaulted
+28,11,Unemployed,UK,8200,33000,Own,0,10474,Paid
+25,1,Self Employed,UK,7910,40500,Own,2,12963,Defaulted
+58,18,Employed,UK,1680,21500,Own,0,11063,Paid
+25,3,Unemployed,UK,5520,52000,Own,2,44179,Defaulted
+19,1,Self Employed,UK,100,51500,Mortgage,0,617,Paid
+22,1,Self Employed,UK,90,33000,Own,3,2199,Defaulted
+27,10,Unemployed,UK,710,39500,Own,0,24398,Paid
+85,51,Self Employed,UK,270,39500,Rent,1,31867,Paid
+42,21,Employed,UK,6720,39500,Own,2,3307,Defaulted
+75,16,Self Employed,UK,4460,54000,Own,0,10383,Defaulted
+20,2,Employed,UK,290,53500,Own,0,16543,Paid
+39,12,Employed,UK,990,25000,Mortgage,0,10123,Paid
+62,33,Unemployed,UK,210,37500,Mortgage,0,35977,Paid
+31,5,Self Employed,UK,3240,29500,Own,2,26399,Defaulted
+77,18,Employed,UK,820,41000,Own,1,37060,Paid
+83,60,Self Employed,UK,6350,54000,Own,1,38267,Paid
+79,15,Employed,UK,6320,25000,Mortgage,1,488,Defaulted
+27,8,Unemployed,UK,6530,24500,Own,1,342,Paid
+80,30,Self Employed,UK,720,51000,Own,0,33748,Defaulted
+76,44,Self Employed,UK,620,40500,Mortgage,0,13325,Paid
+33,3,Self Employed,UK,6880,43000,Own,1,37463,Paid
+56,19,Employed,UK,540,32500,Own,0,31212,Paid
+74,12,Employed,UK,1840,40000,Own,1,9200,Paid
+86,18,Self Employed,UK,2560,28500,Mortgage,1,26412,Defaulted
+24,2,Self Employed,UK,3620,44000,Mortgage,1,20886,Paid
+25,4,Self Employed,UK,3960,53000,Mortgage,0,50858,Paid
+51,17,Unemployed,UK,4020,43500,Rent,1,32541,Paid
+65,28,Employed,UK,7670,45500,Mortgage,0,22158,Paid
+39,21,Employed,UK,5910,43000,Own,2,18876,Paid
+85,18,Unemployed,UK,1690,16000,Own,1,10054,Paid
+46,9,Employed,UK,8740,44500,Rent,2,4294,Defaulted
+80,7,Self Employed,UK,1550,45500,Own,0,40126,Paid
+87,36,Employed,UK,160,18500,Own,3,15058,Defaulted
+41,15,Unemployed,UK,4490,47000,Own,1,27839,Paid
+35,1,Self Employed,UK,0,45000,Own,3,5396,Defaulted
+89,31,Self Employed,UK,390,31500,Own,2,20916,Defaulted
+28,4,Self Employed,UK,870,36500,Mortgage,0,32900,Paid
+69,3,Self Employed,UK,1600,39000,Mortgage,2,11056,Defaulted
+35,8,Unemployed,UK,0,46000,Own,1,3549,Paid
+80,33,Self Employed,UK,9110,50500,Mortgage,1,21456,Defaulted
+71,22,Employed,UK,5820,30000,Mortgage,0,4475,Paid
+69,22,Unemployed,UK,310,48000,Own,0,9393,Paid
+89,17,Employed,UK,9590,54500,Own,1,27734,Defaulted
+70,28,Unemployed,UK,2460,13500,Own,0,1155,Defaulted
+47,7,Unemployed,UK,4280,46000,Own,3,26156,Defaulted
+47,26,Unemployed,UK,2390,39500,Mortgage,1,2036,Paid
+46,17,Unemployed,UK,1860,27500,Own,1,7137,Defaulted
+23,3,Self Employed,UK,6110,41000,Mortgage,2,16199,Defaulted
+81,47,Self Employed,UK,3990,49500,Mortgage,1,23302,Paid
+26,1,Self Employed,UK,1180,38500,Mortgage,0,6274,Defaulted
+29,3,Unemployed,UK,240,27500,Own,0,11517,Paid
+70,27,Self Employed,UK,5480,25000,Own,0,11166,Paid
+67,29,Self Employed,UK,290,23500,Own,0,1256,Paid
+45,22,Unemployed,UK,8710,54500,Own,0,32532,Defaulted
+85,46,Self Employed,UK,1610,42000,Own,1,1705,Paid
+59,25,Self Employed,UK,130,36000,Own,0,3841,Paid
+73,21,Self Employed,UK,90,44500,Mortgage,1,12761,Paid
+68,40,Self Employed,UK,4700,36500,Rent,3,32531,Paid
+82,3,Unemployed,UK,8390,33000,Own,1,6639,Defaulted
+48,13,Self Employed,UK,1480,33000,Rent,1,20608,Paid
+27,1,Self Employed,UK,3060,21500,Mortgage,1,8102,Defaulted
+78,3,Self Employed,UK,60,29500,Mortgage,0,12743,Defaulted
+86,30,Self Employed,UK,8950,54500,Own,0,51367,Defaulted
+25,1,Self Employed,UK,1760,43000,Own,0,6500,Defaulted
+83,31,Self Employed,UK,1460,26500,Mortgage,1,5528,Defaulted
+88,29,Self Employed,UK,6660,46500,Own,0,27796,Paid
+74,48,Self Employed,UK,770,23000,Own,0,14541,Paid
+27,6,Unemployed,UK,1980,34000,Rent,1,31707,Paid
+22,5,Self Employed,UK,6260,12500,Rent,0,4799,Paid
+72,29,Unemployed,UK,2040,42000,Own,1,37797,Paid
+54,9,Unemployed,UK,7080,34000,Mortgage,1,1605,Paid
+65,47,Unemployed,UK,3760,37500,Own,0,11489,Paid
+46,11,Unemployed,UK,3090,51500,Own,2,1374,Defaulted
+56,16,Self Employed,UK,1420,39500,Own,0,14201,Defaulted
+24,5,Self Employed,UK,240,30000,Own,3,25717,Defaulted
+81,16,Unemployed,UK,9890,35000,Own,1,23369,Defaulted
+60,12,Unemployed,UK,3870,49500,Own,1,3710,Paid
+88,5,Unemployed,UK,1440,39500,Own,0,7273,Paid
+89,18,Unemployed,UK,0,37500,Mortgage,0,29519,Defaulted
+56,31,Self Employed,UK,30,18000,Mortgage,1,6509,Paid
+47,15,Self Employed,UK,8350,45000,Own,1,43600,Defaulted
+68,17,Self Employed,UK,9520,30500,Mortgage,3,3867,Defaulted
+73,32,Unemployed,UK,4730,27500,Own,0,5041,Paid
+46,18,Unemployed,UK,4290,33500,Rent,2,24162,Defaulted
+23,3,Self Employed,UK,2340,38000,Own,3,16354,Defaulted
+34,2,Unemployed,UK,840,11500,Own,0,4728,Paid
+45,24,Unemployed,UK,2960,54500,Rent,0,37607,Defaulted
+57,39,Unemployed,UK,9210,40500,Own,0,20499,Defaulted
+40,12,Self Employed,UK,3820,48500,Own,1,18795,Defaulted
+73,53,Self Employed,UK,7850,37500,Mortgage,2,3170,Defaulted
+17,1,Unemployed,UK,170,26000,Own,0,1363,Defaulted
+65,37,Self Employed,UK,5630,50000,Own,0,46375,Paid
+81,62,Employed,UK,180,27500,Own,3,5538,Defaulted
+52,1,Unemployed,UK,8810,17000,Own,3,9777,Defaulted
+48,12,Unemployed,UK,140,48000,Rent,1,10496,Paid
+34,3,Self Employed,UK,4750,52000,Mortgage,2,46916,Paid
+43,9,Self Employed,UK,590,24000,Mortgage,3,7493,Defaulted
+57,26,Employed,UK,7070,40000,Rent,1,31528,Defaulted
+77,44,Unemployed,UK,760,41500,Rent,2,37770,Defaulted
+47,26,Self Employed,UK,4710,35000,Own,3,11159,Defaulted
+61,17,Employed,UK,9410,28500,Own,1,22550,Paid
+69,29,Self Employed,UK,1960,34500,Own,0,9509,Paid
+54,12,Unemployed,UK,0,18000,Own,2,6678,Defaulted
+77,55,Self Employed,UK,9170,54500,Own,1,16560,Defaulted
+60,16,Unemployed,UK,2630,37000,Own,0,30007,Paid
+57,37,Self Employed,UK,7490,14000,Mortgage,1,7084,Paid
+60,21,Self Employed,UK,8630,40000,Own,3,22494,Defaulted
+34,16,Self Employed,UK,6920,40000,Own,0,9609,Paid
+59,12,Unemployed,UK,6310,52000,Own,0,10846,Paid
+38,15,Self Employed,UK,0,29000,Own,0,6820,Paid
+55,18,Employed,UK,7200,44000,Own,1,42057,Paid
+30,3,Self Employed,UK,5780,43500,Rent,3,20719,Defaulted
+45,20,Unemployed,UK,2620,49500,Mortgage,2,13360,Paid
+39,9,Unemployed,UK,3180,45000,Own,0,11591,Paid
+78,2,Self Employed,UK,4560,49500,Mortgage,1,22055,Paid
+40,6,Employed,UK,3650,35500,Own,2,27001,Paid
+63,1,Unemployed,UK,7620,53000,Mortgage,0,52245,Defaulted
+65,11,Unemployed,UK,1780,32000,Mortgage,0,31235,Defaulted
+38,21,Self Employed,UK,90,47500,Rent,2,32337,Defaulted
+22,4,Self Employed,UK,4650,48500,Mortgage,0,3003,Paid
+37,14,Self Employed,UK,6470,43500,Mortgage,1,23900,Paid
+64,1,Self Employed,UK,60,46500,Mortgage,0,35463,Defaulted
+34,10,Self Employed,UK,250,48500,Mortgage,3,16441,Paid
+24,6,Employed,UK,8040,54000,Mortgage,0,21969,Defaulted
+59,26,Unemployed,UK,9540,45500,Mortgage,1,33265,Defaulted
+31,11,Employed,UK,8580,41000,Own,0,36196,Defaulted
+63,23,Self Employed,UK,530,46000,Own,1,31368,Paid
+83,3,Self Employed,UK,1940,8500,Rent,3,146,Defaulted
+26,6,Unemployed,UK,500,50500,Own,0,14673,Paid
+36,6,Employed,UK,940,48000,Own,0,7366,Paid
+82,4,Self Employed,UK,1350,52000,Mortgage,3,44349,Paid
+76,40,Self Employed,UK,8760,21000,Own,3,2968,Defaulted
+18,1,Unemployed,UK,7320,41500,Own,2,26073,Defaulted
+85,46,Unemployed,UK,200,44000,Rent,1,40081,Paid
+21,3,Self Employed,UK,2140,36000,Own,2,12937,Paid
+20,1,Self Employed,UK,0,36500,Mortgage,0,28916,Defaulted
+66,16,Unemployed,UK,1240,36500,Mortgage,0,26068,Paid
+77,57,Unemployed,UK,8420,21000,Own,0,18454,Defaulted
+86,53,Self Employed,UK,4540,13500,Own,3,10735,Defaulted
+24,3,Unemployed,UK,1620,47000,Own,1,11154,Defaulted
+20,1,Self Employed,UK,60,21500,Own,2,10493,Defaulted
+66,39,Self Employed,UK,390,22500,Mortgage,1,7581,Defaulted
+31,14,Unemployed,UK,2210,33500,Own,1,21818,Paid
+62,4,Unemployed,UK,890,52500,Mortgage,0,30113,Paid
+50,18,Self Employed,UK,3490,40000,Own,0,9671,Paid
+42,1,Self Employed,UK,0,26000,Rent,1,5503,Paid
+42,10,Unemployed,UK,3510,40500,Mortgage,1,10787,Defaulted
+45,19,Unemployed,Spain,4000,31000,Own,2,27739,Defaulted
+65,8,Unemployed,UK,30,51500,Own,1,12382,Paid
+40,12,Self Employed,UK,1810,36000,Mortgage,0,27581,Paid
+70,31,Unemployed,UK,5430,39000,Own,1,37463,Defaulted
+53,31,Unemployed,UK,3670,37500,Mortgage,0,1491,Defaulted
+42,17,Unemployed,UK,3440,51500,Mortgage,3,32493,Defaulted
+85,8,Self Employed,UK,430,47000,Own,3,24410,Defaulted
+47,2,Employed,UK,410,53000,Rent,2,14832,Paid
+41,10,Unemployed,UK,1030,47000,Own,3,18887,Defaulted
+55,10,Unemployed,UK,5140,41000,Own,3,12976,Paid
+77,56,Unemployed,UK,5250,48500,Rent,0,26550,Paid
+32,14,Self Employed,UK,4800,25000,Rent,0,24952,Defaulted
+88,60,Unemployed,UK,2530,42500,Mortgage,3,5477,Defaulted
+46,22,Unemployed,UK,3270,50000,Mortgage,2,12091,Defaulted
+86,46,Unemployed,UK,6070,10000,Mortgage,3,1386,Defaulted
+21,3,Self Employed,UK,1650,23000,Mortgage,1,8512,Paid
+67,19,Unemployed,UK,880,49000,Rent,1,5506,Defaulted
+89,37,Employed,UK,8100,32500,Mortgage,1,28292,Defaulted
+37,4,Unemployed,UK,2970,51500,Rent,3,19459,Defaulted
+55,34,Unemployed,UK,4000,38000,Own,0,25012,Defaulted
+53,33,Unemployed,UK,620,22000,Rent,1,1146,Paid
+30,3,Unemployed,UK,150,21000,Rent,1,4817,Paid
+63,40,Employed,UK,1020,35000,Own,1,19712,Paid
+41,18,Unemployed,UK,0,52000,Mortgage,0,43151,Paid
+73,11,Unemployed,UK,3240,52000,Mortgage,2,16486,Paid
+27,8,Unemployed,UK,50,37500,Own,0,34711,Paid
+75,13,Self Employed,UK,40,29000,Mortgage,0,23376,Paid
+18,1,Unemployed,UK,810,50000,Mortgage,0,40186,Defaulted
+52,18,Self Employed,UK,180,21500,Own,1,5112,Paid
+60,40,Unemployed,UK,2990,43000,Mortgage,0,9562,Defaulted
+39,11,Self Employed,UK,5020,53000,Own,2,23190,Paid
+70,52,Employed,UK,9800,44500,Rent,3,9306,Defaulted
+71,10,Employed,UK,100,52000,Own,0,45488,Paid
+40,6,Self Employed,UK,8460,51500,Own,0,25520,Defaulted
+60,29,Unemployed,UK,1520,25500,Mortgage,1,7099,Defaulted
+56,37,Self Employed,UK,7960,46000,Mortgage,0,27188,Paid
+83,60,Employed,UK,110,54500,Own,1,24589,Paid
+43,13,Self Employed,UK,1330,21000,Mortgage,0,13877,Defaulted
+60,26,Self Employed,UK,1050,33500,Mortgage,3,5187,Defaulted
+17,1,Self Employed,UK,7140,29500,Own,0,9035,Paid
+70,27,Unemployed,UK,5290,51500,Own,3,20966,Paid
+48,12,Self Employed,UK,80,51000,Own,0,26021,Defaulted
+54,14,Unemployed,UK,2850,21000,Mortgage,1,15980,Defaulted
+88,69,Unemployed,UK,2960,34000,Rent,3,28065,Defaulted
+28,7,Self Employed,UK,4520,28500,Rent,0,24421,Paid
+56,10,Self Employed,UK,6110,36500,Rent,0,23061,Paid
+40,17,Unemployed,UK,3480,20000,Rent,2,7226,Defaulted
+61,35,Unemployed,UK,2660,52500,Own,0,8835,Paid
+45,9,Self Employed,UK,4930,47500,Mortgage,1,11939,Paid
+61,25,Self Employed,UK,7900,32000,Own,0,5837,Defaulted
+58,38,Self Employed,UK,4060,36000,Mortgage,0,1693,Paid
+41,9,Self Employed,UK,480,50500,Own,2,10841,Defaulted
+65,30,Unemployed,UK,2250,43000,Mortgage,2,11644,Paid
+24,7,Unemployed,UK,450,30500,Own,3,29541,Defaulted
+75,15,Self Employed,UK,2680,49000,Rent,0,9345,Paid
+23,2,Unemployed,UK,2020,41000,Own,1,15047,Paid
+18,1,Unemployed,UK,2500,51500,Mortgage,1,23420,Paid
+25,5,Self Employed,UK,3340,53000,Mortgage,2,148,Defaulted
+56,5,Unemployed,UK,560,35500,Own,0,7668,Defaulted
+26,7,Employed,UK,9640,50500,Own,0,33821,Defaulted
+88,44,Unemployed,UK,1750,38500,Own,2,24743,Defaulted
+85,65,Unemployed,UK,9430,43000,Rent,0,872,Paid
+43,17,Employed,UK,9790,30500,Rent,2,6560,Defaulted
+85,51,Self Employed,UK,6390,46000,Own,0,19630,Defaulted
+25,8,Employed,UK,60,37000,Mortgage,3,35074,Defaulted
+45,20,Employed,UK,30,26000,Own,1,20702,Defaulted
+47,5,Unemployed,UK,1130,45000,Mortgage,0,27111,Paid
+61,24,Employed,UK,420,30500,Mortgage,2,17895,Paid
+69,1,Self Employed,UK,1170,12500,Rent,0,11836,Defaulted
+24,5,Unemployed,UK,200,48000,Rent,0,41110,Defaulted
+41,6,Unemployed,UK,1330,47500,Mortgage,1,30076,Paid
+89,49,Unemployed,UK,8870,40000,Mortgage,1,37329,Defaulted
+28,2,Retired,UK,9840,32500,Own,0,6485,Defaulted
+80,16,Self Employed,UK,6610,47000,Rent,2,23614,Paid
+79,54,Unemployed,UK,0,34500,Own,0,24657,Paid
+45,27,Self Employed,UK,3870,22500,Mortgage,2,14391,Paid
+83,36,Self Employed,UK,820,34500,Rent,2,25737,Defaulted
+36,10,Employed,UK,9180,42000,Own,0,35486,Defaulted
+83,56,Unemployed,UK,1310,42500,Own,3,3222,Defaulted
+32,2,Self Employed,UK,9690,50000,Own,1,35622,Defaulted
+73,56,Self Employed,UK,4850,29500,Own,0,3977,Defaulted
+64,36,Self Employed,UK,0,24000,Own,1,3083,Defaulted
+59,39,Self Employed,UK,7030,17500,Mortgage,1,14776,Defaulted
+23,2,Self Employed,UK,140,18000,Mortgage,1,9923,Paid
+55,36,Employed,UK,8290,37000,Mortgage,1,35697,Defaulted
+24,7,Self Employed,UK,4640,51500,Own,3,38083,Defaulted
+38,12,Self Employed,UK,4280,41500,Rent,0,34415,Paid
+73,24,Employed,UK,2400,17000,Own,2,1183,Defaulted
+60,13,Self Employed,UK,2050,49000,Own,3,13982,Defaulted
+63,3,Self Employed,UK,4980,40500,Mortgage,2,22886,Defaulted
+45,9,Unemployed,UK,8830,42000,Mortgage,2,11881,Defaulted
+86,34,Self Employed,UK,5690,13000,Own,3,6095,Paid
+55,27,Self Employed,UK,9250,51500,Own,0,8450,Defaulted
+18,1,Self Employed,UK,620,40500,Mortgage,0,4692,Defaulted
+64,37,Self Employed,UK,4620,32500,Own,2,11705,Defaulted
+47,20,Unemployed,UK,930,27000,Rent,0,23263,Paid
+82,29,Self Employed,UK,650,53500,Mortgage,0,30856,Defaulted
+63,33,Employed,UK,2690,41000,Own,0,29506,Paid
+50,24,Unemployed,UK,2590,37500,Mortgage,1,16096,Paid
+68,40,Unemployed,UK,60,45000,Own,0,16758,Paid
+41,24,Employed,UK,0,38500,Own,0,16756,Paid
+31,9,Self Employed,UK,340,18000,Mortgage,0,14478,Defaulted
+66,28,Self Employed,UK,1770,50500,Mortgage,2,38826,Defaulted
+17,1,Unemployed,UK,420,45500,Mortgage,1,11857,Paid
+20,3,Self Employed,UK,50,35500,Mortgage,0,13042,Defaulted
+30,10,Self Employed,UK,0,51000,Own,2,13248,Defaulted
+71,25,Self Employed,UK,250,52500,Rent,0,22257,Paid
+55,32,Self Employed,UK,130,36500,Own,3,2958,Defaulted
+26,1,Unemployed,UK,190,21500,Rent,0,11165,Paid
+83,12,Self Employed,UK,1110,37000,Own,0,1193,Paid
+54,17,Self Employed,UK,7120,45500,Mortgage,1,8003,Defaulted
+61,16,Unemployed,UK,250,41000,Own,0,5962,Paid
+55,35,Self Employed,UK,1210,46500,Own,1,37327,Defaulted
+72,19,Self Employed,UK,4020,37000,Mortgage,1,23466,Defaulted
+59,10,Unemployed,UK,1430,47000,Own,1,22696,Paid
+65,37,Self Employed,UK,2520,30500,Rent,0,28947,Paid
+49,18,Employed,UK,750,43000,Mortgage,0,3505,Paid
+60,5,Unemployed,UK,140,18500,Mortgage,0,4186,Paid
+76,30,Unemployed,UK,7530,43500,Mortgage,1,20475,Paid
+75,25,Employed,UK,0,38000,Own,0,21329,Paid
+20,1,Employed,UK,2760,41000,Mortgage,1,23398,Paid
+65,17,Self Employed,UK,980,53000,Own,3,2969,Defaulted
+87,70,Employed,UK,4340,36000,Mortgage,0,5605,Paid
+68,7,Self Employed,UK,2510,17000,Mortgage,2,2519,Defaulted
+61,35,Unemployed,UK,5110,28000,Own,2,14052,Defaulted
+82,55,Self Employed,UK,1120,44500,Own,1,34485,Paid
+32,15,Unemployed,UK,4910,46500,Own,2,34064,Defaulted
+89,7,Unemployed,UK,210,44000,Rent,1,31238,Paid
+58,5,Unemployed,UK,7650,54000,Rent,3,31259,Defaulted
+81,15,Self Employed,UK,330,48000,Mortgage,2,11867,Defaulted
+85,9,Unemployed,UK,1410,33500,Mortgage,0,23338,Defaulted
+76,20,Self Employed,UK,1950,44500,Mortgage,1,22622,Defaulted
+65,4,Self Employed,UK,5800,13500,Own,0,12047,Paid
+58,31,Unemployed,UK,7840,28500,Own,0,20894,Defaulted
+67,16,Self Employed,UK,7300,49000,Own,0,32957,Defaulted
+75,2,Self Employed,UK,1410,33000,Own,0,15375,Paid
+61,9,Unemployed,UK,1950,42500,Rent,0,10111,Paid
+72,3,Employed,UK,2050,23500,Own,0,21163,Paid
+33,10,Self Employed,UK,90,26000,Own,1,11187,Paid
+54,11,Self Employed,UK,700,52500,Own,0,35930,Paid
+34,6,Unemployed,UK,2920,50500,Own,3,28589,Defaulted
+34,9,Unemployed,UK,1870,50000,Own,0,21596,Paid
+26,5,Unemployed,UK,290,41000,Own,2,6420,Defaulted
+21,2,Self Employed,UK,1110,46000,Mortgage,0,4024,Defaulted
+38,3,Unemployed,UK,4660,50000,Mortgage,2,14823,Defaulted
+36,13,Self Employed,UK,2860,50500,Mortgage,1,23365,Paid
+24,3,Self Employed,UK,1060,39500,Own,0,20584,Paid
+70,23,Self Employed,UK,3310,52500,Own,3,33190,Paid
+25,4,Unemployed,UK,4000,33000,Own,0,2259,Defaulted
+30,5,Self Employed,UK,1760,45000,Own,2,9831,Paid
+88,47,Self Employed,UK,1940,14500,Own,0,13104,Paid
+53,3,Self Employed,UK,7810,46000,Own,1,39445,Paid
+83,13,Unemployed,UK,4520,42500,Own,2,40677,Paid
+47,24,Employed,UK,5580,39000,Mortgage,2,37557,Paid
+58,18,Self Employed,UK,3180,26500,Rent,0,9777,Paid
+80,61,Self Employed,UK,2200,51500,Rent,0,5697,Paid
+20,2,Unemployed,UK,4340,38500,Own,2,23171,Defaulted
+26,2,Self Employed,UK,4510,46000,Own,0,7689,Paid
+78,33,Self Employed,UK,4290,41000,Own,0,28271,Paid
+18,1,Unemployed,UK,1870,54000,Rent,1,23561,Paid
+62,35,Self Employed,UK,180,39000,Mortgage,0,10832,Defaulted
+34,11,Self Employed,UK,3680,38000,Mortgage,2,4137,Defaulted
+65,16,Self Employed,UK,150,42500,Mortgage,0,33554,Defaulted
+41,21,Employed,UK,0,18500,Own,1,3822,Paid
+51,11,Self Employed,UK,300,42000,Mortgage,0,1201,Paid
+41,2,Self Employed,UK,7400,42000,Mortgage,2,13033,Defaulted
+71,21,Employed,UK,6080,47000,Mortgage,2,2240,Defaulted
+41,12,Self Employed,UK,40,36500,Mortgage,1,12721,Paid
+26,4,Employed,UK,30,43500,Mortgage,1,39356,Paid
+44,21,Self Employed,UK,40,35000,Own,1,18233,Defaulted
+83,35,Self Employed,UK,8320,50000,Rent,2,21982,Paid
+67,16,Self Employed,UK,340,23500,Rent,3,7033,Paid
+51,21,Self Employed,UK,330,16000,Own,0,3532,Paid
+31,9,Self Employed,UK,8730,41500,Rent,0,30024,Defaulted
+32,4,Unemployed,UK,2380,44000,Rent,1,8348,Paid
+70,52,Unemployed,UK,980,14500,Own,3,2202,Defaulted
+56,15,Unemployed,UK,9400,50000,Mortgage,1,42851,Paid
+48,15,Unemployed,UK,9950,20000,Own,3,1017,Defaulted
+61,13,Unemployed,UK,1080,53500,Rent,0,7106,Paid
+40,7,Unemployed,UK,8410,36500,Own,0,3153,Defaulted
+63,28,Self Employed,UK,10,40000,Mortgage,0,22567,Paid
+62,15,Self Employed,UK,9780,53000,Mortgage,1,43236,Defaulted
+26,4,Self Employed,UK,3090,35500,Own,3,13457,Defaulted
+39,11,Unemployed,UK,7970,44500,Mortgage,0,4361,Paid
+21,2,Unemployed,UK,2980,46500,Mortgage,0,21519,Defaulted
+81,64,Unemployed,UK,8020,42000,Mortgage,0,19900,Defaulted
+67,10,Unemployed,UK,6120,51000,Own,0,39721,Paid
+24,7,Self Employed,UK,8250,16000,Own,2,13574,Paid
+53,35,Self Employed,UK,2720,51000,Rent,2,43504,Defaulted
+81,57,Self Employed,UK,950,53000,Mortgage,0,35095,Defaulted
+82,1,Unemployed,UK,8720,51500,Mortgage,0,44711,Defaulted
+17,1,Unemployed,UK,2100,18000,Rent,0,7214,Paid
+25,5,Self Employed,UK,10,42000,Rent,1,37058,Paid
+46,11,Self Employed,UK,1030,51500,Rent,0,625,Paid
+38,20,Self Employed,UK,0,45500,Own,3,18376,Defaulted
+83,52,Self Employed,UK,9100,38500,Mortgage,3,13979,Defaulted
+70,6,Self Employed,UK,2650,44500,Own,0,12939,Paid
+39,2,Self Employed,UK,3730,41500,Own,1,14255,Paid
+87,10,Self Employed,UK,8170,39500,Rent,1,14892,Defaulted
+33,6,Self Employed,UK,5240,47500,Own,0,43214,Defaulted
+18,1,Self Employed,UK,810,25000,Own,0,6362,Paid
+20,1,Self Employed,UK,1490,38500,Own,0,37668,Paid
+32,1,Self Employed,UK,2500,46500,Mortgage,0,37594,Paid
+60,24,Employed,UK,4190,32500,Rent,0,19317,Defaulted
+33,10,Unemployed,UK,9630,51000,Mortgage,0,26108,Paid
+64,30,Unemployed,UK,20,48000,Rent,1,8515,Paid
+57,28,Employed,UK,8740,52000,Mortgage,0,50778,Defaulted
+85,5,Self Employed,UK,1070,33000,Mortgage,0,23555,Paid
+39,5,Unemployed,UK,960,32000,Mortgage,1,13496,Paid
+42,6,Self Employed,UK,7610,23500,Own,2,16309,Defaulted
+70,40,Unemployed,UK,6490,40000,Mortgage,3,8446,Defaulted
+45,5,Self Employed,UK,680,45500,Own,1,24104,Paid
+57,10,Unemployed,UK,20,33000,Own,0,26915,Paid
+18,1,Self Employed,UK,1380,50500,Mortgage,1,41055,Paid
+20,1,Self Employed,UK,2670,28000,Own,1,17709,Paid
+57,18,Self Employed,UK,380,30000,Mortgage,2,14591,Defaulted
+27,7,Self Employed,UK,7150,21000,Own,2,11017,Defaulted
+71,14,Employed,UK,3430,7500,Mortgage,0,4763,Paid
+44,11,Self Employed,UK,690,45000,Rent,1,27712,Paid
+35,7,Self Employed,UK,1920,34000,Own,2,23928,Defaulted
+66,17,Unemployed,UK,5020,54000,Rent,1,3586,Paid
+79,12,Unemployed,UK,5370,50000,Own,2,32416,Paid
+17,1,Self Employed,UK,4840,10000,Rent,3,2583,Defaulted
+59,1,Employed,UK,960,50500,Mortgage,3,27654,Defaulted
+49,16,Self Employed,UK,9270,54500,Mortgage,0,37275,Defaulted
+37,9,Self Employed,UK,350,17000,Own,1,8857,Defaulted
+65,29,Self Employed,UK,4060,9500,Own,3,864,Defaulted
+25,3,Self Employed,UK,6990,28000,Own,0,8626,Paid
+28,2,Self Employed,UK,2730,25000,Own,0,16606,Paid
+71,37,Self Employed,UK,2900,19000,Own,0,6563,Paid
+20,1,Unemployed,UK,30,31500,Own,1,3283,Defaulted
+49,5,Employed,UK,0,52500,Own,2,3641,Paid
+60,13,Unemployed,UK,990,52500,Own,2,47176,Defaulted
+74,36,Unemployed,UK,2560,48000,Own,1,29187,Paid
+85,61,Unemployed,UK,3130,42500,Own,2,8176,Defaulted
+30,5,Self Employed,UK,60,30500,Rent,0,26124,Defaulted
+69,6,Self Employed,UK,1840,38000,Mortgage,2,24450,Defaulted
+39,2,Employed,UK,9360,53000,Mortgage,0,20619,Defaulted
+53,9,Employed,UK,6650,43000,Mortgage,1,23271,Paid
+57,28,Self Employed,UK,10,18500,Own,0,3219,Paid
+20,3,Employed,UK,1140,27000,Rent,3,7181,Defaulted
+67,24,Employed,UK,230,30000,Own,1,11688,Paid
+46,2,Self Employed,UK,3200,49000,Rent,1,26276,Defaulted
+86,41,Self Employed,UK,620,26500,Own,1,14725,Defaulted
+62,17,Self Employed,UK,7200,25000,Rent,0,17061,Paid
+28,5,Self Employed,UK,6260,29000,Own,1,28689,Paid
+33,12,Unemployed,UK,400,49000,Own,1,21223,Defaulted
+82,57,Self Employed,UK,750,27000,Mortgage,2,510,Defaulted
+19,1,Self Employed,UK,330,40000,Mortgage,3,15131,Defaulted
+87,4,Employed,UK,760,31500,Own,0,8574,Defaulted
+84,23,Unemployed,UK,390,30500,Mortgage,1,26034,Defaulted
+67,32,Self Employed,UK,6760,32500,Own,0,29124,Paid
+65,12,Unemployed,UK,1400,47000,Own,0,38778,Paid
+40,20,Unemployed,UK,2830,48000,Own,3,15269,Defaulted
+84,24,Self Employed,UK,2200,51500,Own,1,23856,Paid
+77,3,Unemployed,UK,440,43500,Mortgage,0,6124,Paid
+18,1,Unemployed,UK,20,38000,Own,2,29872,Paid
+57,1,Employed,UK,170,22500,Own,1,14767,Paid
+74,18,Unemployed,UK,8450,40000,Mortgage,2,26267,Paid
+35,15,Self Employed,UK,1600,41500,Mortgage,0,5695,Paid
+80,51,Self Employed,UK,1270,52500,Own,1,46439,Paid
+78,9,Unemployed,UK,230,53000,Mortgage,1,19698,Paid
+32,1,Unemployed,UK,2520,52500,Own,0,46134,Paid
+47,9,Employed,UK,8800,43500,Mortgage,0,37657,Defaulted
+34,14,Unemployed,UK,210,12000,Mortgage,0,5153,Paid
+46,5,Unemployed,UK,4920,37000,Mortgage,0,12259,Paid
+25,2,Self Employed,UK,10,27000,Own,2,20671,Defaulted
+68,5,Self Employed,UK,180,24000,Mortgage,0,9328,Paid
+56,30,Self Employed,UK,3810,36500,Own,0,459,Paid
+25,6,Unemployed,UK,330,44000,Mortgage,0,7005,Paid
+58,32,Self Employed,UK,1630,48000,Rent,1,10573,Paid
+26,8,Unemployed,UK,10,37500,Rent,0,6521,Paid
+34,12,Self Employed,UK,2670,52000,Mortgage,2,10833,Paid
+63,36,Unemployed,UK,7430,8000,Mortgage,1,4226,Paid
+21,4,Self Employed,UK,1090,44000,Rent,0,20456,Paid
+69,49,Unemployed,UK,1900,48500,Own,0,22881,Defaulted
+50,14,Self Employed,UK,1460,53500,Own,0,2226,Defaulted
+72,47,Unemployed,UK,5860,31000,Own,3,14565,Defaulted
+19,2,Unemployed,UK,150,31500,Rent,0,10187,Paid
+62,21,Self Employed,UK,6000,48000,Own,1,20648,Defaulted
+51,4,Self Employed,UK,1930,30500,Mortgage,2,14549,Defaulted
+18,1,Unemployed,UK,1510,51500,Mortgage,1,10784,Defaulted
+39,22,Unemployed,UK,8120,42000,Mortgage,3,24655,Defaulted
+45,17,Self Employed,UK,0,36000,Mortgage,1,27930,Paid
+43,4,Employed,UK,380,24000,Mortgage,2,23400,Defaulted
+60,30,Unemployed,UK,8270,36000,Own,3,6089,Defaulted
+20,3,Self Employed,UK,3600,49000,Rent,2,29625,Defaulted
+77,35,Unemployed,UK,5500,24000,Mortgage,0,13549,Paid
+53,7,Self Employed,UK,4110,44500,Own,0,19262,Paid
+33,1,Employed,UK,2510,23000,Own,0,7019,Paid
+23,4,Self Employed,UK,1260,54000,Mortgage,2,51673,Defaulted
+75,54,Self Employed,UK,4440,46000,Own,3,16940,Defaulted
+67,9,Self Employed,UK,5520,38000,Mortgage,0,16764,Paid
+30,3,Employed,UK,9730,44500,Rent,2,25427,Defaulted
+37,17,Self Employed,UK,220,12000,Mortgage,3,2392,Paid
+84,45,Self Employed,UK,530,33000,Mortgage,0,17146,Paid
+84,13,Self Employed,UK,2280,42500,Own,0,41130,Paid
+59,32,Employed,UK,2990,37500,Own,1,3039,Paid
+28,2,Employed,UK,9020,25000,Rent,3,24065,Defaulted
+61,12,Self Employed,UK,210,11500,Own,2,6498,Defaulted
+49,20,Unemployed,UK,4170,29000,Mortgage,0,28513,Paid
+28,5,Unemployed,UK,1210,30500,Mortgage,0,17391,Paid
+23,1,Unemployed,UK,1600,31000,Own,1,7357,Paid
+47,6,Self Employed,UK,410,51000,Own,2,23816,Defaulted
+24,4,Self Employed,UK,10,47000,Mortgage,0,21857,Paid
+41,9,Self Employed,UK,90,38000,Own,0,23232,Paid
+42,4,Employed,UK,1330,50000,Own,0,19020,Defaulted
+51,17,Self Employed,UK,4330,37000,Mortgage,1,25172,Paid
+84,28,Unemployed,UK,8380,41500,Mortgage,0,38201,Defaulted
+23,5,Self Employed,UK,1570,52500,Own,1,23003,Paid
+52,4,Employed,UK,1470,44000,Own,0,35208,Paid
+43,7,Unemployed,UK,0,54500,Rent,0,45514,Defaulted
+32,13,Self Employed,UK,3560,33500,Mortgage,3,1412,Defaulted
+25,3,Employed,UK,8960,47500,Rent,0,20474,Defaulted
+36,9,Self Employed,UK,2650,26500,Own,1,22587,Paid
+24,1,Employed,UK,360,46500,Own,3,38858,Paid
+57,10,Unemployed,UK,2890,34500,Mortgage,0,28122,Paid
+57,10,Self Employed,UK,3050,53500,Own,1,4928,Defaulted
+37,18,Self Employed,UK,2030,53000,Own,0,45449,Paid
+23,1,Unemployed,UK,1120,46000,Mortgage,2,27691,Paid
+30,6,Employed,UK,6340,38000,Own,3,29708,Paid
+80,32,Self Employed,UK,7690,26500,Own,0,25334,Paid
+38,7,Employed,UK,2990,53500,Own,0,52614,Paid
+73,4,Unemployed,UK,1300,45000,Own,0,19892,Defaulted
+26,7,Unemployed,UK,1780,49000,Own,0,14086,Paid
+69,32,Self Employed,UK,430,50000,Own,0,15183,Paid
+80,37,Self Employed,UK,1450,8500,Own,1,740,Paid
+78,35,Employed,UK,30,28500,Own,1,7982,Paid
+59,38,Unemployed,UK,0,16500,Own,2,3293,Paid
+49,20,Self Employed,UK,7450,42000,Own,0,41275,Paid
+61,19,Self Employed,UK,9100,27000,Rent,0,4917,Paid
+69,32,Self Employed,UK,2700,41500,Own,1,27664,Paid
+17,1,Self Employed,UK,6330,37000,Own,0,34355,Paid
+29,5,Self Employed,UK,630,28500,Mortgage,0,4685,Paid
+89,44,Unemployed,UK,3030,54500,Mortgage,3,12095,Defaulted
+33,10,Self Employed,UK,140,48000,Mortgage,1,34162,Defaulted
+63,1,Unemployed,UK,9050,27500,Rent,3,2700,Defaulted
+64,15,Unemployed,UK,1680,47000,Mortgage,0,9852,Paid
+85,8,Unemployed,UK,960,28500,Own,0,17614,Paid
+66,48,Employed,UK,2800,28500,Mortgage,0,1824,Defaulted
+17,1,Self Employed,UK,8960,53500,Mortgage,3,29851,Defaulted
+20,2,Self Employed,UK,1970,43500,Mortgage,0,21577,Defaulted
+34,12,Self Employed,UK,4290,46500,Own,0,9731,Paid
+83,6,Self Employed,UK,1660,51000,Mortgage,0,32494,Paid
+44,13,Unemployed,UK,4980,51500,Mortgage,3,26694,Defaulted
+22,5,Self Employed,UK,410,54000,Mortgage,2,23238,Defaulted
+54,33,Self Employed,UK,2910,38000,Own,1,1304,Paid
+57,9,Self Employed,UK,620,23000,Own,0,10805,Paid
+40,14,Self Employed,UK,270,44000,Mortgage,1,19351,Paid
+39,12,Self Employed,UK,50,17000,Own,0,8128,Paid
+46,2,Employed,UK,1370,43000,Mortgage,0,7750,Defaulted
+67,37,Self Employed,UK,1590,38000,Own,1,19438,Paid
+43,25,Self Employed,UK,1150,42500,Own,0,6940,Paid
+49,30,Employed,UK,2740,34500,Mortgage,3,21270,Paid
+51,31,Unemployed,UK,40,54000,Own,0,36942,Paid
+51,21,Employed,UK,4770,34000,Rent,0,2137,Paid
+78,36,Self Employed,UK,7020,49500,Own,2,48566,Defaulted
+42,12,Self Employed,UK,1300,24500,Own,0,2201,Paid
+36,10,Employed,UK,180,53500,Mortgage,1,4623,Paid
+87,59,Employed,UK,470,11500,Own,1,6657,Paid
+72,30,Self Employed,UK,8680,14000,Mortgage,1,10197,Defaulted
+17,1,Self Employed,UK,1840,41000,Mortgage,1,8011,Paid
+75,46,Self Employed,UK,480,43500,Own,1,5327,Paid
+86,11,Unemployed,UK,0,46500,Own,1,28529,Defaulted
+60,28,Self Employed,UK,7950,54000,Own,0,42580,Paid
+58,8,Self Employed,UK,0,54000,Own,0,10925,Paid
+24,6,Unemployed,UK,7400,40000,Mortgage,0,36288,Paid
+76,29,Self Employed,UK,4380,40000,Own,0,31774,Paid
+46,19,Unemployed,UK,8240,18500,Mortgage,0,5857,Defaulted
+64,10,Self Employed,UK,7890,39500,Own,2,37621,Defaulted
+70,52,Self Employed,UK,420,32500,Rent,1,18067,Paid
+20,1,Unemployed,UK,3100,23000,Mortgage,0,3507,Defaulted
+79,3,Unemployed,UK,2310,14000,Own,0,2657,Defaulted
+76,41,Employed,UK,5590,24000,Rent,2,18252,Defaulted
+41,12,Self Employed,UK,2160,35000,Own,3,23050,Defaulted
+72,16,Self Employed,UK,2170,50000,Mortgage,3,21827,Defaulted
+87,15,Self Employed,UK,450,51000,Rent,0,39113,Paid
+29,2,Retired,UK,550,40500,Rent,2,22719,Defaulted
+45,2,Unemployed,UK,180,54000,Rent,1,36127,Paid
+71,6,Self Employed,UK,3880,37500,Mortgage,0,31668,Paid
+79,26,Self Employed,UK,10,41500,Own,1,26530,Paid
+28,6,Self Employed,UK,570,23500,Own,3,6687,Defaulted
+66,4,Self Employed,UK,230,37500,Mortgage,0,26033,Paid
+69,29,Self Employed,UK,1550,53500,Rent,0,43534,Paid
+23,5,Self Employed,UK,5240,36500,Own,1,18730,Paid
+53,29,Self Employed,UK,2630,43000,Own,1,20314,Defaulted
+26,8,Self Employed,UK,1700,35500,Own,1,4347,Paid
+74,40,Self Employed,UK,2320,50500,Mortgage,2,34375,Defaulted
+30,4,Employed,UK,3630,18000,Rent,0,12513,Defaulted
+49,17,Self Employed,UK,9810,27500,Mortgage,0,14005,Defaulted
+63,6,Employed,UK,110,46500,Own,2,41485,Paid
+87,6,Employed,UK,740,32000,Own,0,4384,Paid
+59,18,Unemployed,UK,3420,37000,Own,0,36825,Defaulted
+75,12,Unemployed,UK,4560,21000,Own,1,8726,Paid
+71,38,Self Employed,UK,1660,51000,Own,0,50099,Paid
+46,11,Unemployed,UK,7310,38500,Own,0,11225,Paid
+44,22,Unemployed,UK,1230,39000,Own,0,11204,Paid
+70,50,Employed,UK,1280,31000,Mortgage,0,6432,Paid
+83,53,Unemployed,UK,9780,9000,Own,2,8351,Defaulted
+33,8,Self Employed,UK,850,52000,Mortgage,0,152,Defaulted
+39,3,Unemployed,UK,6490,40500,Mortgage,1,6793,Paid
+72,27,Self Employed,UK,0,45500,Mortgage,3,26704,Defaulted
+29,1,Unemployed,UK,2860,44500,Mortgage,3,35453,Defaulted
+79,21,Self Employed,UK,740,52500,Rent,0,30452,Paid
+72,13,Unemployed,UK,2640,35000,Mortgage,2,20278,Defaulted
+29,11,Employed,UK,1230,41500,Mortgage,3,1515,Defaulted
+78,56,Self Employed,UK,70,53000,Mortgage,1,8145,Paid
+20,1,Self Employed,UK,0,20000,Own,0,14659,Paid
+47,17,Self Employed,UK,710,33000,Own,1,30153,Paid
+88,24,Self Employed,UK,2390,25000,Own,2,15286,Defaulted
+21,2,Self Employed,UK,1210,45500,Rent,1,4196,Paid
+22,1,Self Employed,UK,0,54000,Mortgage,0,32097,Paid
+82,2,Self Employed,UK,330,31500,Own,3,11183,Defaulted
+80,37,Unemployed,UK,3830,16000,Own,0,1785,Paid
+38,14,Employed,UK,2690,54000,Own,0,45634,Paid
+56,1,Self Employed,UK,7820,30000,Own,2,15450,Defaulted
+68,9,Unemployed,UK,9460,32500,Mortgage,2,12945,Defaulted
+82,18,Employed,UK,320,18500,Mortgage,0,3519,Paid
+18,1,Unemployed,UK,90,40000,Mortgage,0,37003,Defaulted
+35,10,Unemployed,UK,4140,40000,Rent,1,25144,Paid
+42,2,Unemployed,UK,1940,49000,Own,0,34231,Paid
+41,2,Self Employed,UK,2380,38000,Own,2,11769,Defaulted
+82,45,Self Employed,UK,2510,38500,Rent,3,14592,Defaulted
+70,11,Self Employed,UK,3850,31500,Mortgage,0,8931,Defaulted
+50,4,Self Employed,UK,3160,36500,Own,1,22473,Paid
+78,58,Unemployed,UK,830,31500,Own,3,30069,Defaulted
+76,5,Self Employed,UK,4180,37500,Own,1,23225,Paid
+70,42,Self Employed,UK,6590,31000,Mortgage,0,15605,Paid
+43,10,Self Employed,UK,3330,21000,Own,0,7461,Paid
+57,22,Self Employed,UK,6550,54500,Own,0,520,Paid
+67,45,Self Employed,UK,830,24000,Own,0,16783,Paid
+87,34,Unemployed,UK,4500,44000,Own,0,7086,Paid
+37,9,Unemployed,UK,6320,46500,Own,2,26609,Defaulted
+45,11,Unemployed,UK,0,38000,Rent,1,26773,Paid
+28,11,Self Employed,UK,9130,42500,Rent,0,33214,Paid
+40,12,Unemployed,UK,4260,47000,Mortgage,1,88,Paid
+46,21,Unemployed,UK,660,41000,Mortgage,0,3197,Paid
+52,31,Self Employed,UK,1610,52500,Rent,1,35593,Paid
+26,7,Self Employed,UK,4060,25000,Own,2,10139,Defaulted
+36,15,Unemployed,UK,120,39000,Rent,1,3377,Paid
+88,17,Employed,UK,490,38500,Mortgage,3,31280,Defaulted
+20,2,Unemployed,UK,40,46000,Mortgage,3,11651,Defaulted
+23,6,Unemployed,UK,1970,53000,Own,1,20987,Paid
+55,19,Self Employed,UK,200,44000,Mortgage,0,775,Paid
+73,7,Employed,UK,550,36500,Mortgage,2,9288,Defaulted
+62,32,Self Employed,UK,1400,33500,Own,2,22320,Paid
+45,11,Unemployed,UK,710,52500,Own,0,33605,Paid
+63,39,Employed,UK,110,11000,Mortgage,3,6309,Defaulted
+56,6,Unemployed,UK,2130,51000,Own,0,34435,Paid
+86,43,Employed,UK,1470,43000,Own,1,8641,Paid
+85,10,Self Employed,UK,6950,40000,Own,0,26381,Paid
+17,1,Self Employed,UK,1070,49500,Mortgage,1,42585,Paid
+64,40,Self Employed,UK,5680,26500,Own,2,6566,Defaulted
+89,47,Unemployed,UK,1870,30000,Own,3,11875,Defaulted
+83,59,Employed,UK,3450,35500,Mortgage,1,26539,Defaulted
+21,4,Self Employed,UK,1550,32000,Mortgage,0,26127,Defaulted
+80,37,Self Employed,UK,2120,41500,Mortgage,0,22657,Paid
+61,9,Employed,UK,130,25000,Mortgage,1,10269,Defaulted
+57,23,Unemployed,UK,30,42000,Mortgage,0,13920,Paid
+64,5,Self Employed,UK,5420,41000,Mortgage,0,14592,Defaulted
+25,5,Self Employed,UK,9310,27500,Mortgage,0,5958,Defaulted
+89,71,Employed,UK,3270,25000,Own,0,21370,Paid
+84,22,Self Employed,UK,9900,44000,Mortgage,1,21907,Defaulted
+43,18,Self Employed,UK,8490,33000,Mortgage,0,2158,Defaulted
+22,5,Unemployed,UK,2200,52500,Own,3,47835,Paid
+46,23,Self Employed,UK,0,43500,Own,0,23021,Paid
+71,37,Employed,UK,5700,36000,Mortgage,0,9637,Paid
+37,5,Employed,UK,6650,46500,Own,3,33842,Paid
+81,22,Unemployed,UK,140,14500,Own,0,13391,Paid
+69,10,Unemployed,UK,7370,45000,Own,0,19960,Paid
+28,4,Employed,UK,8660,13000,Own,1,8651,Defaulted
+25,6,Unemployed,UK,570,40000,Mortgage,0,10403,Paid
+70,48,Employed,UK,4190,48000,Mortgage,2,27908,Defaulted
+25,1,Employed,UK,450,21500,Own,3,16330,Defaulted
+65,32,Self Employed,UK,2580,35000,Mortgage,2,19045,Defaulted
+24,1,Unemployed,UK,110,38500,Own,1,36221,Paid
+41,8,Unemployed,UK,300,17500,Own,1,5686,Paid
+40,19,Self Employed,UK,1860,38000,Own,0,37832,Paid
+55,27,Self Employed,UK,3290,51500,Own,0,47067,Paid
+17,1,Self Employed,UK,4040,51500,Own,0,13477,Paid
+38,18,Self Employed,UK,4730,54500,Mortgage,1,15053,Defaulted
+67,49,Self Employed,UK,7350,39000,Own,0,24718,Paid
+18,1,Self Employed,UK,1450,40000,Own,0,2428,Paid
+58,3,Unemployed,UK,1490,35000,Rent,0,23890,Defaulted
+49,22,Self Employed,UK,5150,37000,Mortgage,0,32243,Paid
+64,47,Employed,UK,10,46000,Rent,1,19792,Paid
+52,14,Employed,UK,4840,32000,Own,2,3358,Paid
+33,2,Self Employed,UK,8390,25500,Own,2,22685,Paid
+38,4,Self Employed,UK,1010,21000,Own,0,19366,Defaulted
+55,21,Self Employed,UK,480,30000,Own,0,6515,Paid
+75,25,Unemployed,UK,7740,32000,Own,0,9551,Defaulted
+53,18,Self Employed,UK,50,32000,Own,0,17547,Paid
+50,22,Employed,UK,940,54500,Mortgage,1,15719,Paid
+75,46,Unemployed,UK,4970,23500,Mortgage,0,10320,Paid
+43,7,Unemployed,UK,9430,27000,Own,0,9393,Defaulted
+17,1,Employed,UK,0,54500,Mortgage,0,38853,Defaulted
+59,4,Unemployed,UK,1210,35500,Own,0,29639,Paid
+89,5,Self Employed,UK,1180,41000,Own,1,34693,Paid
+40,3,Unemployed,UK,10,36000,Own,2,9543,Defaulted
+81,57,Self Employed,UK,2020,33500,Mortgage,0,15408,Paid
+36,17,Employed,UK,0,6500,Own,0,3069,Paid
+26,8,Self Employed,UK,410,50500,Own,0,240,Paid
+76,52,Employed,UK,310,49000,Own,3,18115,Paid
+76,59,Self Employed,UK,5160,10000,Own,1,7829,Paid
+29,4,Self Employed,UK,2180,42000,Mortgage,0,35945,Paid
+29,6,Unemployed,UK,3980,44000,Own,2,35891,Defaulted
+50,1,Self Employed,UK,3760,10000,Own,2,4063,Defaulted
+85,50,Self Employed,UK,9580,37500,Own,0,27079,Paid
+42,19,Self Employed,UK,9260,18000,Own,0,17846,Paid
+78,48,Self Employed,UK,2170,45000,Own,1,13887,Paid
+46,9,Self Employed,UK,4470,9000,Mortgage,0,2508,Paid
+84,36,Self Employed,UK,300,13000,Own,0,8114,Paid
+54,14,Unemployed,UK,50,40500,Own,1,31086,Paid
+62,14,Unemployed,UK,1200,28500,Rent,0,10357,Paid
+62,9,Self Employed,UK,3650,37000,Own,1,2700,Paid
+65,15,Self Employed,UK,1640,44500,Own,3,19317,Defaulted
+60,25,Self Employed,UK,2750,32000,Mortgage,0,31577,Paid
+36,14,Self Employed,UK,2100,49000,Rent,0,42154,Paid
+27,4,Self Employed,UK,2800,30500,Mortgage,1,28950,Paid
+48,16,Employed,UK,20,27500,Mortgage,0,10290,Defaulted
+74,37,Self Employed,UK,3200,51500,Own,0,21803,Defaulted
+17,1,Unemployed,UK,9970,17000,Rent,0,4124,Defaulted
+67,29,Employed,UK,10,22500,Own,0,6250,Paid
+40,16,Self Employed,UK,6330,39500,Mortgage,1,27593,Paid
+36,3,Self Employed,UK,9300,50500,Mortgage,0,46760,Defaulted
+82,27,Self Employed,UK,7970,50000,Mortgage,0,44149,Paid
+58,18,Unemployed,UK,4890,29000,Mortgage,2,22643,Defaulted
+29,3,Self Employed,UK,7120,33500,Own,3,17113,Defaulted
+71,36,Self Employed,UK,280,30000,Own,0,14000,Paid
+37,5,Self Employed,UK,140,29500,Own,0,21765,Paid
+88,18,Self Employed,UK,600,25000,Own,1,20245,Paid
+17,1,Unemployed,UK,1130,36000,Mortgage,1,21240,Paid
+21,3,Self Employed,UK,5270,37000,Mortgage,1,32165,Paid
+29,10,Unemployed,UK,7510,52000,Own,1,24605,Paid
+33,11,Self Employed,UK,780,48500,Own,3,34367,Defaulted
+25,2,Employed,UK,8370,22000,Own,2,15288,Defaulted
+63,12,Self Employed,UK,860,23500,Own,1,4520,Defaulted
+54,27,Self Employed,UK,170,49500,Mortgage,2,7555,Defaulted
+89,54,Self Employed,UK,9800,51000,Rent,1,12184,Defaulted
+74,33,Unemployed,UK,800,40000,Rent,0,12062,Defaulted
+51,7,Unemployed,UK,620,45500,Own,0,18304,Paid
+89,4,Employed,UK,2900,35500,Own,0,25988,Paid
+68,44,Employed,UK,6840,50500,Mortgage,0,36479,Paid
+43,13,Self Employed,UK,8620,48000,Own,2,2564,Defaulted
+19,1,Employed,UK,6830,18500,Mortgage,3,8565,Defaulted
+85,11,Employed,UK,360,44000,Own,3,41264,Paid
+54,12,Unemployed,UK,7620,47500,Mortgage,2,17592,Defaulted
+33,13,Unemployed,UK,800,44500,Own,0,14848,Defaulted
+59,10,Unemployed,UK,4330,46000,Own,3,16507,Paid
+76,1,Unemployed,UK,0,36500,Own,2,4484,Defaulted
+20,3,Unemployed,UK,500,27000,Mortgage,0,23555,Defaulted
+33,8,Employed,UK,6500,51500,Mortgage,0,22706,Paid
+84,28,Employed,UK,6320,51500,Mortgage,1,27893,Paid
+86,13,Unemployed,UK,4660,21000,Own,3,8853,Defaulted
+82,40,Self Employed,UK,450,30500,Rent,1,261,Paid
+35,12,Self Employed,UK,20,46000,Own,0,8176,Paid
+61,10,Self Employed,UK,1520,47000,Own,0,27229,Paid
+87,25,Self Employed,UK,4630,38500,Own,0,11270,Paid
+67,36,Self Employed,UK,140,17500,Rent,0,10647,Paid
+72,39,Unemployed,UK,520,24000,Mortgage,0,13680,Paid
+18,1,Self Employed,UK,9920,46000,Own,1,26102,Defaulted
+26,6,Unemployed,UK,150,18500,Mortgage,3,3156,Defaulted
+59,26,Unemployed,UK,1930,50000,Rent,3,43519,Defaulted
+51,4,Employed,UK,3750,35500,Mortgage,2,10246,Defaulted
+85,25,Unemployed,UK,0,34000,Own,2,13,Defaulted
+41,14,Employed,UK,5060,33500,Mortgage,0,19432,Paid
+67,7,Self Employed,UK,0,45000,Mortgage,0,23286,Paid
+67,31,Self Employed,UK,8980,15000,Own,2,10802,Paid
+38,11,Self Employed,UK,1600,30500,Own,0,27399,Paid
+40,6,Self Employed,UK,2730,15500,Own,1,1017,Paid
+43,13,Self Employed,UK,3460,43000,Own,3,35297,Defaulted
+50,15,Self Employed,UK,410,46000,Rent,0,5593,Paid
+85,40,Unemployed,UK,7800,11000,Own,3,6675,Defaulted
+79,15,Employed,UK,510,53000,Rent,0,51791,Paid
+30,4,Self Employed,UK,6560,50500,Own,3,17001,Defaulted
+87,29,Employed,UK,180,52500,Mortgage,2,26495,Paid
+88,32,Self Employed,UK,9190,54500,Rent,2,15536,Defaulted
+79,3,Self Employed,UK,3150,46500,Own,2,42953,Defaulted
+85,3,Self Employed,UK,7850,54000,Own,0,4678,Paid
+86,45,Unemployed,UK,2950,41000,Own,2,13466,Defaulted
+85,56,Self Employed,UK,2160,45500,Own,1,4963,Paid
+27,4,Self Employed,UK,760,38500,Own,0,16417,Paid
+81,18,Unemployed,UK,1100,53000,Own,3,2664,Defaulted
+86,69,Unemployed,UK,3110,45500,Own,2,44375,Defaulted
+82,28,Unemployed,UK,80,36500,Mortgage,2,32850,Defaulted
+30,13,Self Employed,UK,1550,37000,Mortgage,1,3883,Paid
+73,54,Self Employed,UK,7370,33500,Own,2,7992,Defaulted
+65,6,Employed,UK,0,52500,Own,0,26948,Paid
+34,1,Employed,UK,140,37000,Own,0,22947,Paid
+19,1,Employed,UK,1670,44500,Own,0,35609,Defaulted
+84,24,Self Employed,UK,530,53000,Rent,0,34513,Paid
+65,1,Self Employed,UK,8790,51500,Mortgage,0,23697,Defaulted
+43,26,Unemployed,UK,90,48000,Own,0,12595,Defaulted
+65,31,Self Employed,UK,0,53500,Rent,1,33423,Paid
+24,2,Self Employed,UK,2180,47000,Mortgage,2,27726,Defaulted
+63,14,Unemployed,UK,1390,50500,Own,0,47406,Paid
+70,8,Self Employed,UK,1860,40500,Mortgage,0,5687,Paid
+78,26,Self Employed,UK,3200,49000,Mortgage,1,35472,Paid
+61,9,Employed,UK,120,48500,Own,1,34253,Paid
+68,9,Self Employed,UK,3500,40500,Own,0,37606,Defaulted
+75,19,Self Employed,UK,5350,51000,Mortgage,0,37038,Paid
+79,18,Employed,UK,5400,48500,Own,2,45280,Paid
+29,3,Self Employed,UK,610,45500,Rent,3,37046,Defaulted
+65,5,Self Employed,UK,6400,33000,Own,1,7552,Paid
+20,2,Unemployed,UK,9270,34000,Mortgage,3,6876,Paid
+51,9,Unemployed,UK,180,51500,Own,1,50942,Paid
+34,10,Unemployed,UK,3990,50500,Own,0,3921,Paid
+55,34,Employed,UK,1350,30500,Rent,1,23500,Paid
+23,3,Unemployed,UK,1170,46500,Rent,2,22548,Defaulted
+17,1,Self Employed,UK,60,50000,Rent,0,39968,Paid
+34,10,Self Employed,UK,6280,54000,Own,3,49548,Defaulted
+53,17,Self Employed,UK,1600,28500,Mortgage,2,20544,Defaulted
+53,8,Self Employed,UK,5580,49000,Mortgage,2,46720,Paid
+71,38,Unemployed,UK,7770,22500,Own,0,1015,Paid
+45,1,Self Employed,UK,1060,48500,Rent,3,38750,Defaulted
+70,38,Self Employed,UK,1150,49500,Own,1,41700,Paid
+49,24,Employed,UK,2360,38500,Own,2,24808,Paid
+19,1,Self Employed,UK,4220,46000,Own,0,31795,Paid
+84,33,Self Employed,UK,1140,50000,Mortgage,1,22787,Paid
+33,12,Unemployed,UK,2200,22000,Own,0,3711,Defaulted
+74,19,Self Employed,UK,6790,52500,Own,2,8272,Defaulted
+64,19,Unemployed,UK,90,27500,Own,0,25013,Paid
+65,26,Self Employed,UK,3490,39500,Own,1,38376,Paid
+21,3,Unemployed,UK,290,45000,Own,2,24088,Paid
+26,9,Self Employed,UK,1110,51500,Mortgage,3,50674,Defaulted
+24,5,Employed,UK,6740,49000,Mortgage,0,45681,Paid
+34,12,Self Employed,UK,50,13500,Own,3,4724,Defaulted
+53,3,Self Employed,UK,3340,51500,Rent,0,14188,Defaulted
+62,30,Unemployed,UK,1920,49500,Own,2,13204,Paid
+33,3,Self Employed,UK,3450,43500,Own,1,7302,Paid
+43,4,Self Employed,UK,400,47000,Rent,1,32559,Paid
+72,17,Employed,UK,420,46000,Own,3,40713,Defaulted
+35,2,Self Employed,UK,4180,46500,Own,3,10313,Defaulted
+60,13,Unemployed,UK,0,49500,Mortgage,3,38253,Defaulted
+41,24,Unemployed,UK,4880,34500,Own,0,8103,Paid
+67,40,Self Employed,UK,6420,53000,Rent,0,16488,Defaulted
+47,21,Unemployed,UK,6870,25000,Own,1,18762,Paid
+50,9,Self Employed,UK,3070,33500,Own,1,1902,Paid
+51,31,Self Employed,UK,2130,51500,Rent,0,7982,Paid
+48,27,Unemployed,UK,580,51500,Own,2,41731,Defaulted
+47,28,Self Employed,UK,190,42000,Own,1,29089,Paid
+55,9,Employed,UK,5670,50500,Own,3,37067,Paid
+66,24,Self Employed,Spain,1050,17500,Own,0,10548,Paid
+45,11,Employed,UK,5000,25500,Mortgage,0,17716,Paid
+35,14,Self Employed,UK,1680,51500,Own,3,49573,Defaulted
+80,23,Unemployed,UK,9380,22500,Mortgage,0,9153,Defaulted
+67,22,Self Employed,UK,3380,42000,Mortgage,3,20579,Defaulted
+62,29,Self Employed,UK,7220,28500,Mortgage,2,21831,Defaulted
+21,2,Self Employed,UK,4170,46500,Own,3,18042,Defaulted
+18,1,Self Employed,UK,1220,42000,Own,2,18156,Defaulted
+26,6,Unemployed,UK,8840,44000,Own,1,6163,Paid
+42,15,Unemployed,UK,4650,34000,Mortgage,0,5093,Paid
+53,15,Self Employed,UK,1930,22500,Mortgage,1,13663,Defaulted
+44,5,Self Employed,UK,180,39000,Own,2,30337,Defaulted
+23,4,Self Employed,UK,20,51500,Mortgage,1,9058,Paid
+45,26,Employed,UK,7470,26500,Mortgage,3,21833,Paid
+19,2,Unemployed,UK,690,49500,Own,1,1649,Paid
+51,17,Unemployed,UK,7960,50500,Rent,0,42272,Paid
+65,28,Unemployed,UK,9610,39500,Own,1,20110,Defaulted
+37,11,Self Employed,UK,30,54000,Mortgage,2,51371,Defaulted
+88,46,Unemployed,UK,3570,44000,Own,0,26509,Paid
+41,18,Self Employed,UK,7790,17000,Own,1,12932,Paid
+61,37,Self Employed,UK,7810,30500,Mortgage,3,21353,Defaulted
+21,2,Employed,UK,8790,39500,Own,2,31362,Defaulted
+76,24,Employed,UK,2560,28000,Own,1,1568,Paid
+53,19,Employed,UK,5510,37500,Mortgage,3,28769,Defaulted
+39,1,Unemployed,UK,900,47000,Mortgage,0,41652,Defaulted
+56,14,Self Employed,UK,8200,33500,Own,0,3685,Defaulted
+18,1,Self Employed,UK,5530,21000,Own,1,18929,Paid
+60,8,Self Employed,UK,1080,29000,Own,2,1410,Defaulted
+52,26,Self Employed,UK,770,22000,Own,3,18839,Defaulted
+47,28,Self Employed,UK,5140,43500,Own,2,3454,Defaulted
+70,11,Self Employed,UK,3010,50000,Own,3,39821,Defaulted
+89,11,Unemployed,UK,780,44000,Mortgage,0,3786,Defaulted
+25,2,Self Employed,UK,50,54000,Mortgage,0,12982,Defaulted
+85,25,Self Employed,UK,1100,46000,Own,2,37818,Paid
+74,7,Self Employed,UK,1200,40500,Own,1,1060,Defaulted
+75,13,Self Employed,UK,10,35000,Own,0,19495,Paid
+44,24,Self Employed,UK,840,43500,Mortgage,2,5852,Defaulted
+23,1,Unemployed,UK,9050,53000,Own,1,34778,Defaulted
+46,16,Employed,UK,1390,20000,Mortgage,1,2634,Defaulted
+88,27,Employed,UK,900,52500,Mortgage,2,30196,Defaulted
+23,1,Self Employed,UK,6030,34000,Rent,2,30656,Defaulted
+21,4,Employed,UK,20,23000,Mortgage,3,3175,Defaulted
+30,9,Self Employed,UK,400,41500,Rent,1,24659,Paid
+55,3,Self Employed,UK,90,51500,Own,1,31238,Paid
+68,5,Self Employed,UK,2130,34000,Mortgage,3,32574,Defaulted
+86,46,Unemployed,UK,710,41000,Own,0,29337,Paid
+55,38,Self Employed,UK,2700,19500,Rent,0,15746,Paid
+39,14,Unemployed,UK,7290,48500,Own,0,29702,Defaulted
+79,33,Employed,UK,6580,54000,Own,2,10046,Paid
+73,43,Self Employed,UK,50,19500,Own,2,6967,Paid
+84,43,Unemployed,UK,1780,54500,Mortgage,2,42320,Defaulted
+67,40,Self Employed,UK,30,52500,Own,2,30851,Defaulted
+56,4,Unemployed,UK,9090,54500,Mortgage,1,19033,Defaulted
+88,36,Unemployed,UK,1090,24000,Own,1,16357,Paid
+23,2,Self Employed,UK,2880,23500,Own,1,7247,Defaulted
+52,33,Unemployed,UK,2330,21500,Rent,0,11176,Paid
+85,55,Unemployed,UK,340,37500,Rent,0,6544,Paid
+51,3,Self Employed,UK,5320,54500,Own,0,1713,Paid
+53,11,Self Employed,UK,1580,35000,Own,3,30225,Paid
+35,6,Self Employed,UK,9520,50000,Own,0,11088,Paid
+29,8,Self Employed,UK,780,41000,Own,1,35581,Paid
+63,13,Employed,UK,7920,28500,Rent,0,13714,Defaulted
+65,42,Unemployed,UK,4180,42000,Own,1,27399,Paid
+77,35,Self Employed,UK,2430,40500,Mortgage,2,5747,Defaulted
+21,1,Employed,UK,9740,34000,Mortgage,3,24598,Defaulted
+43,21,Self Employed,UK,4160,31000,Mortgage,0,25035,Paid
+32,15,Unemployed,UK,2810,48000,Rent,1,18588,Paid
+32,12,Employed,UK,9080,52500,Own,0,51478,Defaulted
+23,3,Unemployed,UK,9360,41000,Mortgage,0,36383,Defaulted
+35,15,Unemployed,UK,810,49500,Own,0,32457,Paid
+23,5,Unemployed,UK,7810,50000,Rent,2,9266,Defaulted
+58,3,Self Employed,UK,10,43500,Own,0,28312,Paid
+71,30,Self Employed,UK,2600,14000,Mortgage,3,2476,Defaulted
+30,1,Employed,UK,2580,32500,Own,2,28553,Paid
+67,44,Self Employed,UK,4240,12500,Mortgage,2,1060,Defaulted
+46,21,Unemployed,UK,3280,49500,Mortgage,2,37488,Defaulted
+70,32,Self Employed,UK,130,29000,Rent,1,23182,Defaulted
+42,17,Self Employed,UK,8150,33000,Rent,0,6888,Defaulted
+69,46,Self Employed,UK,280,50000,Own,1,28099,Paid
+48,5,Self Employed,UK,30,35500,Mortgage,0,11441,Paid
+84,45,Unemployed,UK,1210,33500,Mortgage,2,24692,Paid
+33,16,Self Employed,UK,50,24000,Rent,0,16860,Paid
+61,29,Self Employed,UK,9040,53500,Own,0,21729,Defaulted
+77,36,Unemployed,UK,4370,24000,Mortgage,0,2336,Paid
+82,36,Self Employed,UK,4590,34500,Own,3,6532,Paid
+27,2,Self Employed,UK,9650,35000,Own,1,11692,Defaulted
+26,7,Self Employed,UK,6740,42000,Rent,1,3345,Defaulted
+61,17,Self Employed,UK,130,43000,Mortgage,0,19661,Paid
+43,17,Unemployed,UK,860,49000,Mortgage,0,48225,Paid
+45,17,Unemployed,UK,710,20000,Own,0,10162,Paid
+74,1,Unemployed,UK,2480,31500,Mortgage,0,1544,Defaulted
+50,20,Self Employed,UK,6050,45500,Mortgage,2,22440,Defaulted
+63,29,Unemployed,UK,0,35000,Own,2,16928,Defaulted
+58,15,Unemployed,UK,2460,18000,Own,3,12017,Defaulted
+60,22,Self Employed,UK,1560,36000,Rent,0,10506,Paid
+51,12,Unemployed,UK,6690,53000,Own,3,24718,Defaulted
+49,28,Self Employed,UK,8740,52000,Own,3,25495,Paid
+78,25,Employed,UK,90,53000,Own,2,40136,Paid
+29,1,Employed,UK,4540,54000,Mortgage,1,42210,Paid
+21,4,Self Employed,UK,4760,39500,Mortgage,2,12731,Defaulted
+72,20,Self Employed,UK,870,38000,Mortgage,3,22089,Defaulted
+81,10,Employed,UK,7720,52500,Mortgage,0,48071,Defaulted
+85,2,Unemployed,UK,70,52000,Own,0,12756,Paid
+88,39,Self Employed,UK,5520,40000,Mortgage,3,24379,Defaulted
+24,2,Unemployed,UK,30,30000,Own,0,3641,Paid
+38,18,Self Employed,UK,7910,23000,Own,1,12611,Paid
+41,5,Unemployed,UK,2190,31500,Mortgage,1,19293,Paid
+60,15,Unemployed,UK,4330,45500,Mortgage,1,26590,Paid
+81,54,Self Employed,UK,8740,40500,Own,0,35287,Defaulted
+52,32,Unemployed,UK,3870,46000,Rent,3,38405,Defaulted
+83,48,Self Employed,UK,1220,44500,Mortgage,0,27959,Paid
+86,24,Unemployed,UK,200,27500,Own,1,17877,Paid
+44,7,Self Employed,UK,170,44000,Own,2,23306,Defaulted
+83,25,Self Employed,UK,4410,52500,Own,3,33405,Defaulted
+34,5,Self Employed,UK,180,35500,Mortgage,0,30484,Paid
+82,6,Unemployed,UK,9800,36000,Mortgage,3,7564,Defaulted
+26,7,Self Employed,UK,2140,51000,Mortgage,0,48920,Defaulted
+25,8,Self Employed,UK,290,44000,Own,1,15679,Paid
+41,18,Unemployed,UK,2130,43500,Own,2,2429,Defaulted
+37,3,Employed,UK,3520,25500,Own,0,6190,Paid
+75,19,Unemployed,UK,3360,21000,Own,0,10325,Defaulted
+81,9,Unemployed,UK,1090,26000,Own,0,18497,Paid
+27,2,Self Employed,UK,4370,32500,Own,1,9162,Paid
+29,8,Unemployed,UK,1450,42500,Rent,1,9049,Paid
+59,8,Self Employed,UK,4780,43000,Mortgage,0,15659,Paid
+62,40,Self Employed,UK,6290,34500,Own,3,33884,Defaulted
+30,11,Unemployed,UK,870,36500,Rent,0,32167,Paid
+59,14,Self Employed,UK,1370,35000,Own,0,9079,Paid
+72,27,Self Employed,UK,250,45500,Own,0,41591,Paid
+49,14,Employed,UK,7000,9000,Own,1,543,Paid
+18,1,Employed,UK,2030,45000,Own,0,25693,Defaulted
+33,12,Unemployed,UK,1250,38500,Mortgage,0,1621,Paid
+83,33,Self Employed,UK,4490,34500,Own,0,29309,Paid
+73,38,Unemployed,UK,20,37500,Own,2,31232,Defaulted
+58,30,Employed,UK,1910,52500,Rent,0,3732,Paid
+62,39,Self Employed,UK,3410,53500,Own,0,40662,Paid
+84,16,Employed,UK,880,53000,Mortgage,1,46059,Defaulted
+54,24,Self Employed,UK,650,41000,Own,0,17187,Paid
+87,70,Unemployed,UK,4550,22000,Own,2,15641,Paid
+49,2,Unemployed,UK,2090,42000,Rent,0,38800,Paid
+22,5,Self Employed,UK,10,35500,Own,0,8424,Paid
+37,15,Employed,UK,1250,29500,Mortgage,0,16722,Paid
+77,60,Self Employed,UK,2340,44500,Rent,3,25169,Defaulted
+62,27,Self Employed,UK,760,48000,Mortgage,2,2220,Defaulted
+40,23,Self Employed,UK,1750,51000,Mortgage,0,15703,Paid
+34,9,Self Employed,UK,1030,40500,Own,1,31226,Paid
+53,8,Unemployed,UK,8080,41500,Rent,2,26065,Defaulted
+30,10,Self Employed,UK,4130,19500,Mortgage,0,5317,Defaulted
+37,2,Employed,UK,1300,38000,Rent,0,20750,Defaulted
+32,2,Self Employed,UK,4030,52000,Mortgage,3,626,Defaulted
+60,1,Self Employed,UK,5540,32000,Rent,0,13428,Paid
+29,4,Self Employed,UK,5860,47500,Own,2,25867,Defaulted
+69,44,Unemployed,UK,710,53000,Own,1,45109,Paid
+24,2,Employed,UK,7440,35000,Own,1,3380,Paid
+60,35,Unemployed,UK,1820,40500,Own,3,32197,Paid
+62,21,Self Employed,UK,840,41000,Mortgage,0,11865,Paid
+68,45,Unemployed,UK,5140,37500,Own,0,23415,Paid
+27,7,Employed,UK,0,34500,Mortgage,0,30636,Paid
+79,51,Self Employed,UK,6610,51500,Own,1,43510,Paid
+68,15,Self Employed,UK,7950,15500,Own,1,8885,Paid
+51,24,Self Employed,UK,4010,31000,Mortgage,0,11498,Defaulted
+25,5,Self Employed,UK,7920,43000,Own,0,30088,Paid
+28,1,Self Employed,UK,460,35500,Mortgage,0,6761,Defaulted
+38,3,Employed,UK,5720,52000,Own,1,48093,Defaulted
+27,10,Self Employed,UK,6360,32500,Own,1,27062,Paid
+72,49,Self Employed,UK,20,29000,Mortgage,0,712,Paid
+60,7,Self Employed,UK,7880,48000,Own,1,678,Paid
+89,59,Unemployed,UK,1680,36500,Own,3,32371,Paid
+22,2,Unemployed,UK,3620,38000,Own,1,10370,Defaulted
+37,13,Employed,UK,2420,40500,Own,3,12040,Paid
+25,6,Unemployed,UK,0,35500,Mortgage,0,9909,Paid
+62,15,Unemployed,UK,5270,48500,Mortgage,0,28092,Paid
+21,4,Self Employed,UK,1200,35500,Own,3,29023,Defaulted
+52,6,Unemployed,UK,3380,35500,Own,0,24234,Paid
+29,12,Self Employed,UK,7650,44000,Mortgage,1,2662,Paid
+34,10,Self Employed,UK,290,10500,Own,3,7302,Defaulted
+42,16,Self Employed,UK,6180,40500,Mortgage,0,39355,Paid
+58,12,Unemployed,UK,160,41500,Own,3,8013,Defaulted
+75,40,Self Employed,UK,670,50000,Mortgage,3,20079,Paid
+82,54,Employed,UK,5490,42000,Own,0,10323,Defaulted
+48,16,Self Employed,UK,960,54500,Own,2,49584,Defaulted
+32,6,Self Employed,UK,5070,37000,Own,2,15645,Defaulted
+58,28,Unemployed,UK,6430,49000,Rent,0,21061,Paid
+76,9,Self Employed,UK,3490,39500,Own,0,18971,Defaulted
+35,6,Unemployed,UK,6560,48000,Own,1,2325,Defaulted
+33,4,Employed,UK,2530,20500,Own,0,5906,Defaulted
+52,19,Employed,UK,100,52500,Mortgage,1,3567,Paid
+39,6,Employed,UK,4660,53500,Rent,3,26956,Defaulted
+32,4,Self Employed,UK,870,38000,Own,0,7548,Defaulted
+86,11,Unemployed,UK,1990,24000,Mortgage,2,305,Paid
+75,11,Self Employed,UK,2670,42500,Own,1,34252,Defaulted
+75,58,Self Employed,UK,6540,33000,Mortgage,0,5940,Paid
+18,1,Employed,UK,1080,34500,Own,1,18744,Paid
+84,32,Self Employed,UK,130,30500,Own,0,22435,Defaulted
+85,28,Unemployed,UK,1640,52500,Own,0,29580,Paid
+39,20,Self Employed,UK,1830,7000,Own,0,3177,Paid
+24,5,Self Employed,UK,1140,49500,Rent,0,28954,Paid
+19,2,Employed,UK,3620,54000,Mortgage,1,24676,Paid
+51,12,Self Employed,UK,6460,21500,Mortgage,1,5564,Defaulted
+33,16,Self Employed,UK,1180,40500,Own,2,36618,Defaulted
+40,9,Self Employed,UK,3770,51000,Own,3,35981,Defaulted
+66,3,Self Employed,UK,6210,26000,Own,2,12092,Defaulted
+65,11,Unemployed,UK,1030,48500,Own,0,21953,Paid
+17,1,Self Employed,UK,2990,41000,Mortgage,0,31036,Defaulted
+69,32,Self Employed,UK,7760,48500,Own,1,3393,Paid
+58,3,Unemployed,UK,9610,19000,Mortgage,3,4344,Paid
+27,7,Self Employed,UK,620,47500,Own,0,30003,Paid
+70,39,Self Employed,UK,4750,12000,Own,1,10637,Defaulted
+19,2,Unemployed,UK,2110,50000,Mortgage,2,46825,Defaulted
+59,7,Self Employed,UK,10,11500,Own,2,8835,Defaulted
+58,13,Self Employed,UK,4870,53000,Mortgage,3,35785,Defaulted
+85,66,Self Employed,UK,6440,46000,Own,0,1647,Paid
+73,5,Unemployed,UK,8140,13000,Own,1,6887,Paid
+45,28,Employed,UK,2930,50000,Own,2,16619,Paid
+62,13,Self Employed,UK,450,45000,Mortgage,0,10983,Paid
+76,11,Self Employed,UK,260,54000,Own,0,11380,Paid
+33,2,Employed,UK,450,32000,Own,1,16559,Paid
+36,7,Self Employed,UK,4290,20000,Mortgage,0,7358,Paid
+36,2,Self Employed,UK,80,39000,Own,0,9827,Defaulted
+36,12,Unemployed,UK,8990,44000,Rent,0,4339,Defaulted
+47,19,Self Employed,UK,480,40500,Own,3,17164,Defaulted
+46,6,Unemployed,UK,820,52000,Own,3,12027,Defaulted
+65,37,Self Employed,UK,6500,54500,Mortgage,1,9836,Paid
+66,5,Self Employed,UK,360,52000,Own,1,47804,Defaulted
+61,30,Self Employed,UK,8450,40000,Mortgage,3,38158,Defaulted
+85,49,Self Employed,UK,3030,21500,Own,0,354,Paid
+31,10,Self Employed,UK,1720,40500,Mortgage,2,11535,Paid
+37,18,Unemployed,UK,110,49000,Own,0,37723,Defaulted
+74,53,Employed,UK,2580,17000,Mortgage,2,16826,Defaulted
+40,6,Self Employed,UK,440,9000,Rent,1,6704,Defaulted
+85,4,Employed,UK,4340,38000,Own,0,1613,Paid
+39,18,Self Employed,UK,4790,51500,Mortgage,3,1640,Defaulted
+74,56,Unemployed,UK,0,31000,Own,1,22692,Paid
+76,18,Self Employed,UK,1600,52000,Own,2,15689,Defaulted
+69,5,Employed,UK,70,54000,Mortgage,0,48085,Defaulted
+25,8,Unemployed,UK,8060,27000,Rent,3,11184,Defaulted
+63,8,Self Employed,UK,3200,48000,Mortgage,0,6803,Paid
+56,12,Employed,UK,0,54500,Own,0,8458,Paid
+33,4,Unemployed,UK,510,39000,Own,1,37240,Paid
+25,2,Self Employed,UK,400,12500,Own,0,5037,Paid
+83,56,Unemployed,UK,3170,38500,Mortgage,0,10089,Paid
+63,1,Unemployed,UK,5790,40500,Rent,0,8089,Paid
+22,1,Self Employed,UK,8160,37500,Own,1,22891,Defaulted
+20,1,Employed,UK,3460,14000,Own,1,13546,Paid
+19,2,Self Employed,UK,6050,23500,Own,1,14971,Paid
+74,47,Employed,UK,6040,37500,Rent,3,35539,Defaulted
+81,21,Self Employed,UK,90,38500,Own,0,3485,Paid
+53,35,Unemployed,UK,3330,29000,Own,0,20759,Paid
+46,24,Employed,UK,400,26500,Own,1,12921,Paid
+66,31,Self Employed,UK,10,23000,Own,2,8560,Paid
+51,26,Employed,UK,730,35000,Own,0,30987,Paid
+83,65,Unemployed,UK,2570,18500,Mortgage,1,18319,Defaulted
+50,11,Self Employed,UK,3950,27500,Own,1,21509,Paid
+37,15,Self Employed,UK,7870,19500,Mortgage,2,18982,Defaulted
+32,2,Self Employed,UK,2070,49500,Mortgage,1,14940,Paid
+29,9,Unemployed,UK,9410,42500,Own,0,23442,Defaulted
+34,16,Self Employed,UK,7680,41500,Rent,0,32427,Paid
+38,13,Employed,UK,2830,52500,Mortgage,1,33619,Paid
+82,62,Self Employed,UK,0,54000,Mortgage,0,5485,Paid
+80,41,Employed,UK,5840,39000,Mortgage,2,21823,Paid
+86,43,Employed,UK,2410,44500,Own,1,34243,Paid
+40,20,Employed,UK,1480,54500,Mortgage,0,3974,Paid
+83,1,Self Employed,UK,5990,34500,Mortgage,0,15279,Defaulted
+75,45,Unemployed,UK,1770,45000,Own,1,677,Paid
+89,40,Unemployed,UK,220,42000,Rent,1,10696,Paid
+68,36,Unemployed,UK,9510,50000,Rent,2,49704,Defaulted
+85,26,Self Employed,UK,4590,44000,Own,0,39212,Defaulted
+31,6,Self Employed,UK,1040,37500,Mortgage,1,24537,Paid
+37,6,Self Employed,UK,8150,47000,Own,0,27239,Defaulted
+85,37,Employed,UK,1060,16000,Own,2,6121,Defaulted
+54,2,Self Employed,UK,6500,53500,Own,0,48427,Paid
+63,33,Self Employed,UK,80,35000,Mortgage,1,15832,Paid
+63,42,Unemployed,UK,2700,42500,Mortgage,3,18470,Defaulted
+49,17,Unemployed,UK,2110,32000,Own,2,30312,Defaulted
+41,19,Unemployed,UK,2940,32500,Mortgage,2,7559,Defaulted
+52,20,Self Employed,UK,2310,23500,Own,2,14845,Defaulted
+49,29,Employed,UK,3260,50000,Own,2,3618,Defaulted
+71,37,Employed,UK,6880,37500,Own,2,27937,Paid
+89,4,Unemployed,UK,8750,42000,Own,1,19958,Defaulted
+69,4,Unemployed,UK,1780,23500,Own,2,385,Defaulted
+23,3,Self Employed,UK,2440,44000,Own,0,1381,Defaulted
+37,5,Self Employed,UK,4780,23000,Mortgage,2,7697,Defaulted
+77,55,Unemployed,UK,3370,32000,Own,0,25140,Paid
+63,46,Self Employed,UK,2490,50500,Own,2,16804,Defaulted
+37,17,Self Employed,UK,1350,21000,Own,0,3755,Defaulted
+49,14,Employed,UK,8250,38000,Mortgage,2,32912,Defaulted
+78,25,Self Employed,UK,4350,34500,Mortgage,3,31999,Defaulted
+52,13,Unemployed,UK,5170,14500,Own,1,5773,Paid
+82,22,Self Employed,UK,3660,30500,Own,0,16284,Defaulted
+58,35,Unemployed,UK,670,43500,Mortgage,1,41702,Paid
+65,28,Self Employed,UK,290,54500,Mortgage,0,7246,Defaulted
+57,38,Self Employed,UK,5960,35000,Mortgage,1,21956,Paid
+88,7,Self Employed,UK,6970,50000,Mortgage,3,43467,Defaulted
+41,3,Employed,UK,80,3000,Own,1,2790,Paid
+70,6,Employed,UK,8330,48000,Mortgage,0,41251,Defaulted
+76,35,Self Employed,UK,1140,37000,Mortgage,1,25478,Paid
+32,5,Unemployed,UK,310,54500,Own,2,30314,Defaulted
+63,18,Unemployed,UK,2350,48000,Mortgage,1,46727,Paid
+26,4,Unemployed,UK,7540,46000,Mortgage,3,37419,Paid
+88,40,Self Employed,UK,5290,24000,Own,0,163,Paid
+69,31,Self Employed,UK,770,37500,Own,2,36332,Defaulted
+88,37,Unemployed,UK,3350,36000,Mortgage,2,19773,Defaulted
+51,6,Employed,UK,110,25500,Own,2,24770,Defaulted
+21,3,Employed,UK,300,36500,Own,0,19323,Paid
+66,29,Unemployed,UK,130,31500,Rent,2,17150,Defaulted
+85,45,Self Employed,UK,2170,51000,Mortgage,1,43748,Paid
+82,11,Self Employed,UK,2320,39000,Mortgage,0,17963,Paid
+29,3,Employed,UK,100,45000,Rent,3,37642,Defaulted
+33,8,Employed,UK,2390,54500,Own,1,6014,Paid
+24,5,Self Employed,UK,2790,37500,Mortgage,3,31316,Defaulted
+19,2,Self Employed,UK,60,26500,Own,0,22540,Paid
+20,2,Employed,UK,30,46500,Mortgage,2,31881,Defaulted
+33,11,Self Employed,UK,8850,32000,Own,3,15627,Defaulted
+24,6,Employed,UK,110,54500,Rent,0,37833,Paid
+69,25,Employed,UK,7140,48500,Mortgage,1,22618,Defaulted
+83,28,Self Employed,UK,50,34500,Own,0,20386,Paid
+28,10,Unemployed,UK,7330,51500,Rent,1,14633,Paid
+54,20,Self Employed,UK,1750,38000,Own,3,30248,Defaulted
+59,36,Retired,UK,140,50000,Mortgage,0,14904,Defaulted
+39,10,Self Employed,UK,2920,44000,Mortgage,1,36080,Defaulted
+53,9,Self Employed,UK,7290,54000,Own,0,30353,Paid
+40,23,Unemployed,UK,0,51500,Own,0,10149,Paid
+82,43,Self Employed,UK,4130,27000,Own,3,23219,Defaulted
+26,3,Self Employed,UK,150,39000,Mortgage,3,32534,Defaulted
+46,3,Self Employed,UK,9300,11000,Mortgage,0,3282,Defaulted
+19,2,Self Employed,UK,5360,30000,Mortgage,1,1674,Defaulted
+68,5,Self Employed,UK,2990,44000,Own,2,3324,Defaulted
+44,3,Unemployed,UK,6000,52500,Own,0,23593,Paid
+52,12,Employed,UK,4950,51500,Own,0,17685,Paid
+81,40,Self Employed,UK,30,44500,Rent,0,28336,Paid
+65,21,Employed,UK,3320,25500,Own,0,3124,Paid
+82,21,Employed,UK,40,29500,Own,0,13352,Paid
+73,31,Self Employed,UK,4440,54000,Mortgage,1,28768,Paid
+53,33,Self Employed,UK,7910,35000,Own,0,5222,Paid
+18,1,Self Employed,UK,60,37000,Mortgage,1,33398,Paid
+66,8,Unemployed,UK,1310,34500,Own,2,30824,Defaulted
+41,10,Unemployed,UK,2610,10500,Own,1,7318,Paid
+62,9,Unemployed,UK,1160,35500,Own,0,25811,Paid
+66,26,Self Employed,UK,1750,46000,Mortgage,1,1115,Paid
+52,32,Employed,UK,2370,35000,Own,3,28963,Paid
+17,1,Self Employed,UK,110,54000,Mortgage,1,11315,Paid
+21,2,Unemployed,UK,4040,50000,Rent,1,49997,Defaulted
+28,10,Self Employed,UK,9150,48500,Mortgage,0,37417,Defaulted
+40,5,Self Employed,UK,3880,37500,Own,3,7001,Paid
+50,11,Self Employed,UK,520,47500,Mortgage,3,28760,Defaulted
+77,16,Unemployed,UK,3760,25000,Own,0,16441,Paid
+79,27,Employed,UK,5060,29000,Rent,0,24701,Paid
+58,10,Employed,UK,3240,25500,Rent,0,11223,Paid
+53,22,Employed,UK,6160,30500,Own,1,16014,Defaulted
+25,7,Self Employed,UK,3540,37000,Mortgage,0,26393,Paid
+78,52,Unemployed,UK,9900,25500,Mortgage,3,10864,Defaulted
+79,32,Unemployed,UK,3450,29000,Own,0,26338,Paid
+79,24,Self Employed,UK,1090,46000,Own,2,41195,Defaulted
+55,25,Unemployed,UK,6130,41500,Mortgage,0,7140,Paid
+63,4,Unemployed,UK,2470,11500,Own,0,11215,Defaulted
+62,7,Unemployed,UK,1310,48000,Mortgage,0,45557,Defaulted
+56,7,Self Employed,UK,5730,50500,Own,1,47662,Paid
+61,31,Self Employed,UK,2000,47500,Own,1,923,Paid
+24,5,Employed,UK,350,22500,Rent,0,9370,Defaulted
+66,1,Self Employed,UK,3220,22000,Own,0,7495,Paid
+18,1,Unemployed,UK,1450,39500,Mortgage,0,33385,Paid
+69,20,Employed,UK,80,32000,Mortgage,0,30527,Paid
+28,11,Unemployed,UK,830,54500,Own,1,11843,Paid
+47,12,Self Employed,UK,750,41500,Mortgage,2,7464,Paid
+39,12,Self Employed,UK,60,19000,Own,1,2177,Paid
+65,42,Self Employed,UK,7260,31500,Own,0,5186,Defaulted
+20,3,Unemployed,UK,670,38000,Rent,1,5700,Defaulted
+53,36,Unemployed,UK,7600,20500,Own,0,13542,Paid
+62,9,Unemployed,UK,20,51000,Own,1,7262,Defaulted
+39,1,Self Employed,UK,2840,35000,Own,1,20712,Paid
+55,33,Self Employed,UK,4200,40500,Own,0,17511,Paid
+79,4,Unemployed,UK,1710,30500,Rent,0,23595,Paid
+41,18,Unemployed,UK,0,41500,Rent,3,17037,Defaulted
+88,49,Unemployed,UK,5700,49500,Mortgage,2,34643,Paid
+46,27,Self Employed,UK,90,48500,Own,0,30037,Paid
+41,2,Self Employed,UK,9770,43500,Own,1,19325,Defaulted
+88,42,Employed,UK,0,21500,Own,0,8644,Paid
+30,13,Self Employed,UK,570,42500,Own,3,38962,Defaulted
+35,17,Employed,UK,9540,29500,Own,0,29433,Defaulted
+29,6,Self Employed,UK,140,48500,Own,0,39432,Paid
+45,2,Unemployed,UK,1630,47000,Mortgage,1,8332,Paid
+62,9,Self Employed,UK,3880,18000,Rent,2,16683,Defaulted
+34,2,Self Employed,UK,9450,45000,Mortgage,0,20978,Defaulted
+27,7,Employed,UK,1050,31000,Rent,1,14644,Paid
+83,2,Self Employed,UK,6760,21000,Own,0,16895,Paid
+25,3,Unemployed,UK,6430,28000,Mortgage,2,6734,Defaulted
+22,3,Employed,UK,30,25000,Own,3,19124,Defaulted
+37,6,Unemployed,UK,850,47500,Mortgage,2,39889,Defaulted
+76,11,Self Employed,UK,7150,34000,Rent,2,2521,Paid
+75,32,Self Employed,UK,560,11500,Own,0,3463,Paid
+70,38,Self Employed,UK,270,48000,Own,2,8798,Paid
+18,1,Unemployed,UK,4100,25000,Mortgage,0,13548,Defaulted
+50,2,Self Employed,UK,2390,48000,Own,1,2606,Paid
+73,45,Employed,UK,4090,53000,Mortgage,2,43116,Defaulted
+19,1,Self Employed,UK,7520,54000,Mortgage,3,22842,Defaulted
+78,2,Self Employed,UK,30,31500,Mortgage,3,7854,Paid
+41,4,Self Employed,UK,50,19000,Mortgage,0,5342,Paid
+17,1,Self Employed,UK,4620,35500,Mortgage,0,26342,Paid
+26,6,Self Employed,UK,120,26000,Own,2,7207,Defaulted
+47,9,Unemployed,UK,3180,16000,Mortgage,3,2051,Paid
+27,2,Unemployed,UK,4330,51500,Rent,0,48659,Paid
+25,1,Self Employed,UK,6440,49500,Own,2,16075,Defaulted
+79,40,Employed,UK,3140,38000,Rent,2,31641,Defaulted
+20,1,Employed,UK,7180,28500,Own,1,15795,Paid
+32,6,Employed,UK,1560,43000,Own,0,293,Paid
+43,23,Unemployed,UK,9530,50000,Own,0,6378,Defaulted
+36,2,Self Employed,UK,60,36000,Own,1,8423,Paid
+65,27,Self Employed,UK,640,44000,Own,1,20039,Paid
+29,3,Self Employed,UK,5240,27000,Own,0,20750,Paid
+62,32,Employed,UK,7080,45500,Rent,1,29575,Paid
+44,24,Self Employed,UK,270,48500,Mortgage,0,11573,Defaulted
+49,6,Self Employed,UK,6010,33500,Mortgage,1,27607,Paid
+66,17,Self Employed,UK,9040,36000,Own,1,16173,Paid
+67,22,Unemployed,UK,3530,54500,Mortgage,0,54455,Paid
+67,36,Unemployed,UK,3260,35500,Mortgage,1,10021,Paid
+67,3,Self Employed,UK,520,35000,Mortgage,0,23732,Defaulted
+49,1,Self Employed,UK,2690,31500,Rent,0,23186,Defaulted
+45,10,Self Employed,UK,2490,49000,Rent,0,16629,Paid
+32,1,Unemployed,UK,1240,51000,Own,2,30207,Defaulted
+86,50,Employed,UK,820,26500,Mortgage,0,4238,Paid
+63,15,Employed,UK,3230,30000,Mortgage,2,17591,Paid
+46,3,Self Employed,UK,3010,24000,Own,2,4666,Defaulted
+78,12,Self Employed,UK,9480,30000,Own,2,4156,Defaulted
+72,53,Unemployed,UK,2590,23000,Own,2,12712,Defaulted
+61,13,Self Employed,UK,510,40000,Own,0,26089,Paid
+25,5,Unemployed,UK,2690,49000,Own,3,15549,Paid
+77,43,Unemployed,UK,2260,49000,Mortgage,2,26195,Paid
+41,16,Unemployed,UK,6570,22000,Own,0,12609,Defaulted
+30,7,Self Employed,UK,2330,52000,Rent,1,17716,Paid
+38,7,Unemployed,UK,1490,38500,Rent,1,3415,Paid
+56,20,Unemployed,UK,0,12000,Own,3,10164,Defaulted
+20,1,Self Employed,Germany,410,27500,Own,2,11059,Defaulted
+58,32,Self Employed,UK,3220,32500,Own,2,16150,Defaulted
+73,15,Unemployed,UK,6050,48000,Own,2,20937,Defaulted
+38,6,Unemployed,UK,3630,49000,Own,2,41842,Paid
+55,8,Self Employed,UK,840,44500,Own,0,43055,Paid
+62,21,Unemployed,UK,480,31500,Mortgage,3,25036,Defaulted
+62,6,Unemployed,UK,5370,37500,Mortgage,0,21305,Paid
+83,20,Unemployed,UK,650,46500,Own,0,42450,Paid
+48,5,Self Employed,UK,8300,17500,Own,0,6235,Defaulted
+64,30,Unemployed,UK,400,50500,Own,1,18285,Paid
+60,2,Self Employed,UK,0,51000,Rent,3,25219,Defaulted
+38,6,Self Employed,UK,10,49000,Mortgage,1,23169,Paid
+71,22,Unemployed,UK,900,45000,Mortgage,0,7473,Paid
+49,24,Unemployed,UK,930,39000,Rent,0,27806,Paid
+73,8,Self Employed,UK,150,16500,Mortgage,0,12772,Paid
+46,27,Self Employed,UK,20,39500,Own,0,9479,Paid
+60,4,Self Employed,UK,2900,22500,Own,1,15725,Paid
+24,7,Self Employed,UK,5130,38000,Own,0,35911,Paid
+34,5,Unemployed,UK,6530,41500,Own,2,6874,Paid
+52,2,Employed,UK,930,32500,Own,0,5412,Paid
+42,3,Self Employed,UK,10,49000,Own,0,3835,Defaulted
